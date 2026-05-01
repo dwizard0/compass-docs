@@ -10,29 +10,52 @@ COMPASS is designed to simplify:
 
 ---
 
-## 🚀 Start Here
+## 🚀 Start Here (Commanding Officers)
+
+If you are setting up COMPASS for your ship, start here:
 
 👉 [Quick Start for Commanding Officers](getting-started/quick-start-co.md)
+
+This guide will walk you through:
+- Setting up your ship
+- Adding your crew
+- Tracking your first event
+- Recording promotion points
 
 ---
 
 ## 📦 Core Features
 
-- [Crew Management](features/crew-management.md)
-- Promotion Points Tracking
-- Event Tracking
-- Awards & Nominations
+### 👥 Crew Management
+Manage your roster, track member status, and maintain accurate records.  
+👉 [Open Guide](features/crew-management.md)
+
+### 📊 Promotion Points Tracking
+Track advancement and ensure accurate promotion readiness.
+
+### 📅 Event Tracking
+Log events and participation for reporting and engagement.
+
+### 🏅 Awards & Nominations
+Submit and track awards across your crew.
 
 ---
 
-## 👥 By Role
+## 👥 Guides by Role
 
-- Commanding Officers
-- Staff
+- Commanding Officers *(Recommended starting point)*
+- Staff / Admins
 - Crew Members
 
 ---
 
 ## 🛠 Need Help?
 
-Contact your Chapter leadership for support.
+- Review the **Common Issues** sections in each guide
+- Contact your Chapter leadership if needed
+
+---
+
+## 📌 About COMPASS
+
+COMPASS exists to reduce administrative burden and give Commanding Officers better visibility into their crew’s activity and progress.
