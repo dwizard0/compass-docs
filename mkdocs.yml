@@ -1,0 +1,57 @@
+site_name: COMPASS Documentation
+site_description: Official documentation for the COMPASS crew management platform
+site_url: https://dwizard0.github.io/compass-docs/
+repo_url: https://github.com/dwizard0/compass-docs
+repo_name: compass-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.follow
+
+extra_css:
+  - assets/compass.css
+
+nav:
+  - Home: index.md
+  - Commanding Officers:
+    - Overview: co-guide/index.md
+    - Getting Started: co-guide/getting-started.md
+    - Managing Your Roster: co-guide/roster.md
+    - Promotions: co-guide/promotions.md
+    - Events: co-guide/events.md
+    - Awards & Nominations: co-guide/awards.md
+  - Reference:
+    - Rank Chart: reference/ranks.md
+    - Glossary: reference/glossary.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - toc:
+      permalink: true

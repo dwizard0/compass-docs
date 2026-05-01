@@ -1,61 +1,28 @@
 # COMPASS Documentation
 
-Welcome to the official documentation for COMPASS.
+Official documentation site for **COMPASS** — the Crew Operations Management & Personnel Assignment Support System for STARFLEET International.
 
-COMPASS is designed to simplify:
-- Crew management
-- Promotion tracking
-- Event logging
-- Awards and recognition
+Live site: https://dwizard0.github.io/compass-docs/
 
----
+## Contributing
 
-## 🚀 Start Here (Commanding Officers)
+Documentation is written in Markdown and built with MkDocs Material.
 
-If you are setting up COMPASS for your ship, start here:
+### Local Development
 
-👉 [Quick Start for Commanding Officers](getting-started/quick-start-co.md)
+```
+pip install mkdocs-material
+mkdocs serve
+```
 
-This guide will walk you through:
-- Setting up your ship
-- Adding your crew
-- Tracking your first event
-- Recording promotion points
+Then open http://localhost:8000.
 
----
+### Adding Pages
 
-## 📦 Core Features
+1. Create a .md file in the appropriate docs/ subdirectory
+2. Add it to the nav section of mkdocs.yml
+3. Commit and push - GitHub Actions deploys automatically
 
-### 👥 Crew Management
-Manage your roster, track member status, and maintain accurate records.  
-👉 [Open Guide](features/crew-management.md)
+## Deployment
 
-### 📊 Promotion Points Tracking
-Track advancement and ensure accurate promotion readiness.
-
-### 📅 Event Tracking
-Log events and participation for reporting and engagement.
-
-### 🏅 Awards & Nominations
-Submit and track awards across your crew.
-
----
-
-## 👥 Guides by Role
-
-- Commanding Officers *(Recommended starting point)*
-- Staff / Admins
-- Crew Members
-
----
-
-## 🛠 Need Help?
-
-- Review the **Common Issues** sections in each guide
-- Contact your Chapter leadership if needed
-
----
-
-## 📌 About COMPASS
-
-COMPASS exists to reduce administrative burden and give Commanding Officers better visibility into their crew’s activity and progress.
+Pushes to main automatically trigger a GitHub Actions build and deploy to GitHub Pages.
