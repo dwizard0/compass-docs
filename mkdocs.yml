@@ -32,10 +32,20 @@ nav:
   - Commanding Officers:
     - Overview: co-guide/index.md
     - Getting Started: co-guide/getting-started.md
+    - Command Dashboard: co-guide/command-dashboard.md
     - Managing Your Roster: co-guide/roster.md
     - Promotions: co-guide/promotions.md
     - Events: co-guide/events.md
     - Awards & Nominations: co-guide/awards.md
+    - Reports: co-guide/reports.md
+    - Ship Settings: co-guide/ship-settings.md
+  - Crew Members:
+    - Guide: crew/index.md
+  - Regional Coordinators:
+    - Overview: rc-guide/index.md
+    - Regional Dashboard: rc-guide/regional-dashboard.md
+    - Promotions & Awards: rc-guide/promotions-awards.md
+    - SFI Eligibility Sync: rc-guide/sfi-eligibility-sync.md
   - Reference:
     - Rank Chart: reference/ranks.md
     - Glossary: reference/glossary.md
