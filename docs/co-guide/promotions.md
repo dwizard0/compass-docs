@@ -125,7 +125,7 @@ The RC has three options:
 
 ## RC Review — O-7+ Promotions
 
-For O-7 (Rear Admiral) and above, the RC cannot approve directly — these require **SFI Fleet Command approval**. The RC's role is to review, endorse, and forward the nomination.
+For O-7 (Fleet Captain) and above, the RC cannot approve directly — these require **SFI Fleet Command approval**. The RC's role is to review, endorse, and forward the nomination.
 
 ### RC Reviews and Recommends to Fleet
 
@@ -182,8 +182,8 @@ Select **Approved** or **Rejected**, add any notes from Fleet Command, and click
 |---|---|---|
 | O-1 through O-5 | RC | RC approves directly in COMPASS |
 | O-6 (Fleet Captain) | RC | RC approves directly in COMPASS |
-| O-7 (Rear Admiral) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
-| O-8 (Vice Admiral) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
+| O-7 (Fleet Captain) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
+| O-8 (Rear Admiral) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
 | O-9+ (Admiral and above) | Executive Committee | RC recommends to Fleet; EC vote required |
 
 ---
