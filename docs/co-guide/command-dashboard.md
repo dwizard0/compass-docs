@@ -2,7 +2,7 @@
 
 The Command Dashboard is your primary hub in COMPASS. It's the first page you see after logging in as CO or XO, and gives you a full operational picture of your ship at a glance.
 
-![Command Dashboard — lower section showing quick links, pending actions, and crew by department](../img/Command Dashboard 1b.png)
+![Command Dashboard](../img/Command_Dashboard_full.png)
 
 ---
 

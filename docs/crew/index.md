@@ -21,7 +21,7 @@ If you've forgotten your password, click **Forgot password?** on the login page 
 
 After logging in, you'll see your **Crew Dashboard** — a personal summary of your activity in COMPASS.
 
-The dashboard shows:
+![Crew Dashboard](../img/Crew_Dashboard_full.png)
 
 - **Your rank and ship** — Current rank, position, and ship assignment
 - **Recent events** — Events you've attended recently
