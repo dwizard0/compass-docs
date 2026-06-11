@@ -155,9 +155,18 @@ Clicking **Recommend to Fleet** opens a confirmation dialog where the RC can add
 
 ![Recommend to Fleet confirmation dialog](../img/Promotion Elig Report (CO) - Workflow 3c.png)
 
-After clicking **Recommend to Fleet**, a confirmation banner appears and the promotion status changes to **Awaiting Fleet Decision**.
+After clicking **Recommend to Fleet**, COMPASS returns to the Regional Promotions page with a confirmation banner. The promotion moves from the **O-7+ Pending Recommendation** queue into the **Recently Actioned** table with a status of **Awaiting Fleet Decision**.
 
-![Confirmation that promotion has been recommended to SFI Fleet Command](../img/Promotion Elig Report (CO) - Workflow 3e.png)
+![Regional Promotions page after recommending to Fleet — showing Awaiting Fleet Decision status and action buttons](../img/Promotion Elig Report (CO) - Workflow 3d.png)
+
+From this view the RC can see:
+
+- The green confirmation banner confirming the nomination was sent to Fleet Command
+- Any remaining O-7+ promotions still needing action in the **O-7+ Pending Recommendation** queue
+- The **Recently Actioned** table showing the promotion with **Awaiting Fleet Decision** status
+- Two action buttons: **Record Fleet Decision** (for when Fleet responds) and **Nomination Form** (to download the PDF at any time)
+
+The external approval process now continues outside COMPASS. SFI Fleet Command will review the nomination and respond. When they do, the RC returns here to record the outcome.
 
 ### The Flag Promotion Nomination Form PDF
 
