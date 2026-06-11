@@ -181,10 +181,12 @@ Select **Approved** or **Rejected**, add any notes from Fleet Command, and click
 | Rank | Approving Authority | COMPASS Action |
 |---|---|---|
 | O-1 through O-5 | RC | RC approves directly in COMPASS |
-| O-6 (Fleet Captain) | RC | RC approves directly in COMPASS |
+| O-6 (Captain) | RC | RC approves directly in COMPASS |
 | O-7 (Fleet Captain) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
-| O-8 (Rear Admiral) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
-| O-9+ (Admiral and above) | Executive Committee | RC recommends to Fleet; EC vote required |
+| O-8 (Commodore) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
+| O-9 (Rear Admiral) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
+| O-10 (Vice Admiral) | Executive Committee | RC recommends to Fleet; EC vote required |
+| O-11+ (Admiral and above) | Executive Committee | RC recommends to Fleet; EC vote required |
 
 ---
 
