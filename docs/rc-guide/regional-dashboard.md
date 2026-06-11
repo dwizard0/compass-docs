@@ -4,6 +4,8 @@ The Regional Dashboard gives you a bird's-eye view of every ship in your region 
 
 Go to **Regional Dashboard** in the left navigation. This option only appears if you hold a regional role (RC, VRC, RCOS, or RAO).
 
+![Regional Dashboard](../img/Regional_Dashboard_full.png)
+
 ---
 
 ## What You'll See
