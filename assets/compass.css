@@ -1,0 +1,21 @@
+:root {
+  --md-primary-fg-color: #88ccff;
+  --md-primary-fg-color--light: #aaddff;
+  --md-primary-fg-color--dark: #5599cc;
+  --md-accent-fg-color: #ffaa44;
+}
+.md-header {
+  background-color: #0a1628;
+  border-bottom: 2px solid #88ccff;
+}
+.md-tabs {
+  background-color: #0d1f3c;
+}
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: #ffaa44;
+}
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+  background-color: rgba(255, 170, 68, 0.1);
+}
