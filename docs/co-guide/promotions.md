@@ -1,20 +1,8 @@
 # Promotions
 
-COMPASS manages the full promotion workflow from eligibility checking through approval and SFI database update.
+COMPASS manages the full promotion workflow from eligibility checking through approval and SFI database update. This page covers the complete process for both standard promotions (O-1 through O-5) and flag officer promotions (O-6 and above).
 
-Go to **Promotions** in the left navigation to access the Promotion Eligibility Report.
-
-![Promotion Eligibility Report](../img/Promotion Elig Report (CO).png)
-
----
-
-## How Promotions Work
-
-```
-CO reviews eligibility → CO submits → Regional review → RC approval → SFI DB rank update
-```
-
-The Promotion Eligibility Report shows every crew member's current status — who is eligible, who is close, and who has outstanding requirements. This is your primary working view for promotions.
+Go to **Promotions** in the left navigation to open the Promotion Eligibility Report.
 
 ---
 
@@ -24,78 +12,192 @@ The report has three tabs:
 
 | Tab | What It Shows |
 |---|---|
-| **Eligibility** | All crew with eligibility status, points, and time-in-grade |
+| **Eligibility** | All crew with current eligibility status, points, and time-in-grade |
 | **Pending** | Promotions submitted and awaiting regional review |
 | **History** | All past promotions for your ship |
 
-![Promotion history tab](../img/Promotion Elig Report (CO) - History.png)
+![Promotion Eligibility Report — pending tab](../img/Promotion Elig Report (CO) - Pending.png)
 
-![Pending promotions tab](../img/Promotion Elig Report (CO) - Pending.png)
+![Promotion Eligibility Report — history tab](../img/Promotion Elig Report (CO) - History.png)
 
 ---
 
-## Submitting a Promotion
+## Standard Promotions (O-1 through O-5)
 
-When a crew member is eligible, their row will show a **Promote** button. Click it to open the promotion form.
+These promotions are approved at the regional level by your RC and follow a straightforward workflow.
 
-![Promote Crew Member form — enlisted/junior officer](../img/Promotion Elig Report (CO) - Workflow 1a.png)
+### Step 1 — Check Eligibility
+
+On the **Eligibility** tab, each crew member shows their current rank, time-in-grade, point totals, and eligibility status. A **Promote** button appears on rows where all requirements are met.
+
+### Step 2 — Open the Promotion Form
+
+Click **Promote** to open the promotion dialog for that crew member.
+
+![Standard promotion form — enlisted/junior officer](../img/Promotion Elig Report (CO) - Workflow 1a.png)
 
 The form shows:
 
-- **Available Points** — Event + Academy points and Awards + Permanent points, broken out separately
-- **Promote To** — The target rank (pre-selected based on next eligible rank)
-- **Points to Spend** — How many event/academy points will be consumed by this promotion
-- **Requirements** — All promotion requirements shown with green checkmarks when met
-- **Promotion Date** — Defaults to today; can be set to a past or future date
-- **Effective Time** — Optional; leave blank to apply at start of the promotion date
-- **TIG Waiver** — Check to reduce the time-in-grade requirement by 50% for extraordinary service
-- **Notes** — Optional internal notes
+- **Available Points** — Event + Academy points and Awards + Permanent points broken out separately
+- **Promote To** — Target rank, pre-selected as the next eligible rank
+- **Points to Spend** — How many Event + Academy points will be consumed by this promotion
+- **Requirements** — All requirements with green checkmarks confirming they're met
+- **Promotion Date** — Defaults to today; can be set to any past or future date
+- **Effective Time** — Optional; leave blank to apply at the start of the promotion date
+- **TIG Waiver** — Reduces time-in-grade requirement by 50% for extraordinary service
+- **Notes** — Optional internal notes visible to the RC
 
-Click **Approve Now** to submit.
+### Step 3 — Submit
 
-### Flag Officer Promotions (O-6 and above)
+Click **Approve Now** to submit the promotion for regional review. The member is notified and the promotion appears in your **Pending** tab and the RC's regional queue.
 
-Promotions to Fleet Captain and above require additional information. The form will expand to include a **Commanding Officer Recommendation** section with narrative questions about the member's service.
+### Step 4 — RC Approves
 
-![Promote Crew Member form — O-6+ with CO recommendation](../img/Promotion Elig Report (CO) - Workflow 2a.png)
-
-These narrative answers are forwarded to the RC as part of the regional review.
+The RC reviews and approves. On approval, the member's rank updates in COMPASS immediately and they receive an email notification.
 
 ---
 
-## Regional Review
+## Flag Officer Promotions (O-6 and above)
 
-Once submitted, the promotion moves to the RC's queue. The RC reviews the submission, including any CO recommendation narrative for flag officer promotions.
+Promotions to Fleet Captain (O-6) and above follow an extended workflow with additional narrative questions and, for O-7+, SFI Fleet Command involvement.
 
-![Regional review of a promotion request](../img/Promotion Elig Report (CO) - Workflow 3a.png)
+### Step 1 — Open the Promotion Form
 
-The RC can approve, request changes, or reject. You'll be notified by email when the status changes. Track pending submissions under **Promotions → Pending**.
+The form opens the same way as a standard promotion, but shows additional O-6+ content at the bottom.
 
----
+![Flag officer promotion form — top section showing requirements met](../img/Promotion Elig Report (CO) - Workflow 2a.png)
 
-## Approval Workflow by Rank
+Notice the differences from a standard promotion:
 
-| Rank Range | Approval Required |
+- **Points to Spend is 0** for flag promotions — permanent points drive eligibility, not event points
+- The **TIG Waiver** description changes to "Extraordinary Service – reduces TIG by 6 months"
+- An **O-6+ Promotion – Commanding Officer Recommendation** section appears at the bottom of the form
+
+### Step 2 — Complete the CO Recommendation
+
+Scroll down to the CO Recommendation section. This is required for all O-6+ promotions.
+
+![Flag promotion form — CO recommendation and nomination questions](../img/Promotion Elig Report (CO) - Workflow 2b.png)
+
+First, select your recommendation:
+
+- **✓ Recommend Approval** — You support this promotion
+- **✗ Don't Recommend Approval** — You do not support it (rare, but available)
+
+Then complete the **Flag Promotion Nomination Form Questions**. These answers are pre-filled onto the official SFI Flag Promotion Nomination Form PDF and forwarded to the RC:
+
+| Question | What to Include |
 |---|---|
-| O-1 through O-5 | RC review and approval |
-| O-6 (Fleet Captain) | RC review and approval |
-| O-7 / O-8 (Rear/Vice Admiral) | Chief of Starfleet direct approval |
-| O-9+ (Admiral and above) | Executive Committee vote and Promotions Director review |
+| **Q1. Nominator/Nominee Relationship** | Your role relative to the nominee (e.g., Commanding Officer) |
+| **Q2. Why should this person be promoted?** | Their overall service record and qualities |
+| **Q3. Specific examples benefiting their Chapter** | Concrete contributions to their ship |
+| **Q4. Specific examples benefiting their Region** | Regional service, events, leadership |
+| **Q5. Specific examples benefiting STARFLEET** | Fleet-level contributions |
+| **Q7. Outside hobbies or activities** | Community activities relevant to their character |
+| **Q8. Other awards or documentation** | Any additional supporting evidence |
 
-COMPASS generates the required nomination documentation for O-7+ promotions. Your RC will guide you through the process.
+!!! tip "Write Substantive Answers"
+    Flag promotion narratives are reviewed by your RC and, for O-7+, by SFI Fleet Command. Vague answers like "He Shows Up" delay approval. Write specific, concrete examples with dates where possible. The RC can edit answers inline before forwarding, but strong original submissions move faster.
+
+Click **Submit for RC Approval** when complete.
+
+---
+
+## RC Review — O-6 Promotions
+
+Once submitted, the promotion appears in the RC's **Regional Promotions** queue under **O-6 Pending Approval**.
+
+### RC Reviews the Submission
+
+The RC opens the review panel showing the full submission — member details, CO recommendation, and all nomination form answers. The RC can edit individual answers inline before taking action.
+
+![RC review panel — O-6 submission showing CO recommendation and narrative answers](../img/Promotion Elig Report (CO) - Workflow 2e.png)
+
+![RC review panel — scrolled to bottom showing Approve/Reject buttons](../img/Promotion Elig Report (CO) - Workflow 2f.png)
+
+The RC has three options:
+
+- **Approve Promotion** — Approves directly; rank updates in COMPASS immediately
+- **Reject Promotion** — Rejects with a reason sent back to the CO
+- **Cancel** — Closes without action
+
+---
+
+## RC Review — O-7+ Promotions
+
+For O-7 (Rear Admiral) and above, the RC cannot approve directly — these require **SFI Fleet Command approval**. The RC's role is to review, endorse, and forward the nomination.
+
+### RC Reviews and Recommends to Fleet
+
+The RC reviews the submission the same way as O-6, but the action buttons at the bottom are different.
+
+![RC review panel — O-7+ showing Recommend to Fleet, Nomination Form, and Reject buttons](../img/Promotion Elig Report (CO) - Workflow 3b.png)
+
+The RC has three options:
+
+- **Recommend to Fleet** — Forwards the nomination to SFI Fleet Command with optional endorsement notes
+- **Nomination Form** — Downloads the pre-filled Flag Promotion Nomination Form PDF
+- **Reject** — Rejects the nomination at the regional level
+
+### RC Recommends to Fleet
+
+Clicking **Recommend to Fleet** opens a confirmation dialog where the RC can add optional recommendation notes to Fleet Command.
+
+![Recommend to Fleet confirmation dialog](../img/Promotion Elig Report (CO) - Workflow 3c.png)
+
+After clicking **Recommend to Fleet**, a confirmation banner appears and the promotion status changes to **Awaiting Fleet Decision**.
+
+![Confirmation that promotion has been recommended to SFI Fleet Command](../img/Promotion Elig Report (CO) - Workflow 3e.png)
+
+### The Flag Promotion Nomination Form PDF
+
+At any point during review, the RC can download the pre-filled SFI Flag Promotion Nomination Form by clicking **Nomination Form**.
+
+![Flag Promotion Nomination Form — pre-filled PDF](../img/Promotion Elig Report (CO) - Workflow 3b - Form.png)
+
+COMPASS pre-fills the entire form from data already in the system:
+
+- Nominee name, SCC, join date, email, region, and chapter
+- Chapter CO name and email
+- Current rank and rank date
+- Requested rank
+- All relevant positions held since last rank date (pulled from ship assignments)
+- OTS, OCC, and current SFDPP certification dates
+
+This eliminates manual form-filling. The RC downloads and submits this PDF to SFI Membership Services as part of the external O-7+ approval process.
+
+### Recording the Fleet Decision
+
+Once SFI Fleet Command responds, the RC records the outcome back in COMPASS using the **Record Fleet Decision** button on the promotion row.
+
+![Record Fleet Decision dialog](../img/Promotion Elig Report (CO) - Workflow 3e.png)
+
+Select **Approved** or **Rejected**, add any notes from Fleet Command, and click **Submit Decision**. If approved, the member's rank updates in COMPASS and they are notified.
+
+---
+
+## Approval Workflow Summary
+
+| Rank | Approving Authority | COMPASS Action |
+|---|---|---|
+| O-1 through O-5 | RC | RC approves directly in COMPASS |
+| O-6 (Fleet Captain) | RC | RC approves directly in COMPASS |
+| O-7 (Rear Admiral) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
+| O-8 (Vice Admiral) | SFI Fleet Command | RC recommends to Fleet; RC records decision |
+| O-9+ (Admiral and above) | Executive Committee | RC recommends to Fleet; EC vote required |
 
 ---
 
 ## Common Issues
 
 **Member shows ineligible but should qualify.**
-Check that all event attendance and academy completions are entered — missing data is the most common cause. Also verify their join date and current rank are correct.
+Check that all event attendance, academy completions, and awards are entered — missing data is the most common cause. Also confirm their OTS/OCC status is current via **SFI Database Sync**.
 
-**I submitted with the wrong date.**
-Contact your RC before the promotion is approved — they can adjust or return it for correction.
+**I need to correct a submission already sent to the RC.**
+Contact your RC — they can edit narrative answers inline or return the submission for correction before approving.
 
-**I need to retract a submission.**
-Contact your RC. Once a promotion has left ship-level review it can only be returned or rejected by the RC.
+**The Flag Promotion PDF is missing positions held.**
+Positions are pulled from COMPASS ship assignment records. If a position isn't showing, check that it's recorded in **Ship Positions** with the correct date range.
 
-**A promotion was approved but the member's rank in COMPASS didn't update.**
-Approved promotions update COMPASS rank automatically. If it didn't update, contact the platform admin.
+**Status shows "Awaiting Fleet Decision" but Fleet has responded.**
+The RC needs to record the fleet decision in COMPASS using the **Record Fleet Decision** button on that promotion row.
