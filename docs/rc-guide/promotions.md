@@ -1,6 +1,6 @@
-# Promotions & Awards (RC)
+# Promotions (RC)
 
-As RC, you are the approving authority for all promotion and award submissions from ships in your region. This page covers the full regional review workflow for both standard and flag officer promotions.
+As RC, you are the approving authority for all promotion submissions from ships in your region. This page covers the full regional review workflow for both standard and flag officer promotions.
 
 ---
 
@@ -113,39 +113,9 @@ If approved, the member's rank updates in COMPASS immediately and they receive a
 
 ---
 
-## Reviewing Award Nominations
+## Promotion Workflow Tips
 
-Go to **Awards** in the regional navigation to see all pending award nominations from ships in your region.
-
-Each nomination shows the nominee, award, nominator, ship, and citation.
-
-### RC Endorsement
-
-For Order of Merit nominations, you can add an **RC Endorsement** — a brief statement supporting the nomination included in the official SFI submission.
-
-![RC award review — endorsement and submission options](../img/Awards - Nominate 9 (RC).png)
-
-### Submitting to SFI
-
-Once reviewed and endorsed, COMPASS provides three submission options:
-
-| Option | Description |
-|---|---|
-| **Download OoM Form (PDF)** | Downloads the pre-filled SFI Order of Merit nomination form |
-| **Submit to SFI Web Form** | Opens the SFI web form pre-filled with all nomination data |
-| **Mark as Submitted to SFI** | Records that you've submitted externally (for tracking) |
-
-![SFI Order of Merit Nomination Form — pre-filled PDF](../img/Awards - Nominate 10 (RC) - Form.png)
-
-### Notification Preferences
-
-When approving award nominations, set the **Notification Preference** — notify the member immediately on approval, or hold notification until the award is formally presented at a meeting or convention.
-
----
-
-## RC Workflow Tips
-
-- Check the **Pending Actions** panel on your Regional Dashboard daily — it surfaces all promotions and awards waiting for your review across all ships
+- Check the **Pending Actions** panel on your Regional Dashboard daily — it surfaces all promotions waiting for your review across all ships
 - Run **SFI Eligibility Sync** on a ship before processing a batch of their promotions to ensure OTS/OCC data is current
 - Download and review the Flag Promotion PDF before forwarding to Fleet — easier to catch data issues in the PDF view than in the form
 - Edit nomination narrative answers inline before approving if the CO's responses are vague — stronger narratives mean faster SFI processing

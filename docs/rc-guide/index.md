@@ -9,7 +9,8 @@ As RC, you have regional-level access across all ships in your region. Your COMP
 | Section | What You'll Learn |
 |---|---|
 | [Regional Dashboard](regional-dashboard.md) | Monitoring region-wide ship health and pending actions |
-| [Promotions & Awards](promotions-awards.md) | Reviewing and approving submissions from all ships |
+| [Promotions](promotions.md) | Reviewing and approving promotion submissions from all ships |
+| [Awards](awards.md) | Reviewing and approving award nominations from all ships |
 | [SFI Eligibility Sync](sfi-eligibility-sync.md) | Syncing crew eligibility data from db.sfi.org |
 
 ## Your Role in COMPASS

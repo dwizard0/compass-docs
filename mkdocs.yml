@@ -44,7 +44,8 @@ nav:
   - Regional Coordinators:
     - Overview: rc-guide/index.md
     - Regional Dashboard: rc-guide/regional-dashboard.md
-    - Promotions & Awards: rc-guide/promotions-awards.md
+    - Promotions: rc-guide/promotions.md
+    - Awards: rc-guide/awards.md
     - SFI Eligibility Sync: rc-guide/sfi-eligibility-sync.md
   - Reference:
     - Rank Chart: reference/ranks.md
