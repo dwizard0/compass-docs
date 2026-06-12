@@ -41,7 +41,7 @@ A region-wide view of SFDPP compliance for all role holders across all ships. An
 
 When you have both a ship CO role and an RC role, the left navigation shows both **Command Dashboard** and **Regional Dashboard**. These are completely separate views:
 
-- **Command Dashboard** → your ship only (USS Veritas)
+- **Command Dashboard** → your ship only
 - **Regional Dashboard** → all ships in your region
 
 The ship displayed in the sidebar header reflects whichever context you're currently working in. You can switch between them freely without losing your place.
