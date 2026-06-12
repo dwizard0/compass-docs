@@ -20,8 +20,6 @@
 
 **RCOS** — Regional Chief of Staff. Assists the RC in regional operations.
 
-**Region 3** — The SFI region including USS Veritas, USS Comanche, USS Corsair, USS Zavala, USS Joan of Arc, and USS Battle Born.
-
 **SCC** — Star Cluster Certification (member number). Unique identifier for every SFI member.
 
 **SFI** — STARFLEET International. The fan organization COMPASS serves.
