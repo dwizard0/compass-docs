@@ -1,6 +1,6 @@
 # COMPASS Documentation
 
-**COMPASS** (Crew Operations Management & Personnel Assignment Support System) is the official platform for STARFLEET International chapter management in Region 3 and beyond.
+**COMPASS** (Crew Operations Management & Personnel Assignment Support System) is the official platform for STARFLEET International chapter management.
 
 ## Where do you want to start?
 

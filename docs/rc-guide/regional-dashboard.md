@@ -42,19 +42,7 @@ A region-wide view of SFDPP compliance for all role holders across all ships. An
 When you have both a ship CO role and an RC role, the left navigation shows both **Command Dashboard** and **Regional Dashboard**. These are completely separate views:
 
 - **Command Dashboard** → your ship only (USS Veritas)
-- **Regional Dashboard** → all ships in Region 3
+- **Regional Dashboard** → all ships in your region
 
 The ship displayed in the sidebar header reflects whichever context you're currently working in. You can switch between them freely without losing your place.
 
----
-
-## Region 3 Ships
-
-| Ship | Registry | Class |
-|---|---|---|
-| USS Veritas | NCC-74100 | Sovereign Class |
-| USS Comanche | NCC-1799 | Constitution Class |
-| USS Corsair | NCC-26556 | Ambassador Class |
-| USS Zavala | NCC-74709 | Intrepid Class |
-| USS Joan of Arc | NCC-73289 | Entente Class |
-| USS Battle Born | NCC-69607 | Nebula Class |
