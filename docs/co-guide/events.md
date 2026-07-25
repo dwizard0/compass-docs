@@ -46,6 +46,23 @@ Check each crew member who attended when creating the event. You can edit attend
 
 ---
 
+## Plan / Host Credit
+
+Members who **plan or host** an event can be credited directly on that event — you no longer need to create a separate "Plan or Host an event" entry just to give someone that credit.
+
+On any event you can manage (you hold attendance permission, or you created the event), open the event and click **Plan / Host Credit**. A window lists your active crew — check everyone who planned or hosted, then click **Save Host Credit**.
+
+- **No one, one, or many** members can be credited on a single event.
+- Host credit is worth the **"Plan or Host an event"** point value, awarded *on top of* any attendance points. A member who both attended and hosted receives both.
+- Unchecking everyone and saving removes all host credit from the event.
+
+Credited members appear in a **Planned / Hosted By** list on the event page, and their host points flow into promotion totals and reports automatically. Host credit is **not** attendance — it will not inflate attendance counts or uniform-compliance figures.
+
+!!! note
+    The standalone **"Plan or Host an event"** event type still works if you prefer it. This feature simply lets you record the same credit on the real event instead of entering a duplicate.
+
+---
+
 ## Editing or Deleting an Event
 
 Open the event from the Events list and click **Edit** to change any details or update the attendance list. Events can be deleted if entered in error, but deletion is permanent — there's no undo.
