@@ -72,6 +72,12 @@ Open the event from the Events list and click **Edit** to change any details or 
 
 ---
 
+## Sharing Events With Other Chapters
+
+Your ship can publish an event to your region or the whole fleet so other chapters can add it to their own calendars — and you can add events other chapters have shared. See [Sharing Events Between Chapters](event-sharing.md).
+
+---
+
 ## How Events Drive Promotions
 
 Each attended event awards the attending crew member a number of activity points, based on the event type's configured point value. These points accumulate toward promotion eligibility requirements. You can see a member's point total and the events driving it on their profile under the **Promotions** tab.
