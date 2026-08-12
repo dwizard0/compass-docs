@@ -4,6 +4,9 @@ COMPASS manages the full promotion workflow from eligibility checking through ap
 
 Go to **Promotions** in the left navigation to open the Promotion Eligibility Report.
 
+!!! tip "Can't approve promotions yourself?"
+    Approving promotions is a CO ability, but a CO can delegate it to their XO — see [Delegating Command Authority](delegation.md).
+
 ---
 
 ## The Promotion Eligibility Report

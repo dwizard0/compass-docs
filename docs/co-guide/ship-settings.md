@@ -75,6 +75,16 @@ Configure how permanent point bonuses are applied for specific award types and l
 
 ---
 
+## Command Action Delegation
+
+Grant your XO — or, for events, OPS and SO — the authority to act on your behalf. Events, promotions, and awards each have their own set of actions you can turn on and off.
+
+![Command Action Delegation settings card](../img/Command Dashboard - Ship Setting - Delegation.png)
+
+Only the CO sees this card, and grants can be revoked at any time. See [Delegating Command Authority](delegation.md) for the full guide.
+
+---
+
 ## Quick Links
 
 Customize the quick-action links that appear on crew member dashboards. This is how you surface the most relevant resources for your crew — your ship's website, meeting schedule, Discord server, etc.

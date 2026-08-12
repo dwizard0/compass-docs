@@ -4,6 +4,9 @@ COMPASS manages the full awards workflow from CO nominations through regional ap
 
 Go to **Awards** in the left navigation.
 
+!!! tip "Approving, presenting, and submitting to SFI"
+    These three are CO abilities, but a CO can delegate any of them to their XO — see [Delegating Command Authority](delegation.md). Nominating and giving awards need no grant; the XO can already do both.
+
 ---
 
 ## Nominating a Crew Member

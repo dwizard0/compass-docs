@@ -111,9 +111,9 @@ If the host chapter changes the date, location, or details, your copy updates au
 
 ## Delegating Access
 
-If you'd rather your OPS or SO officer handle browsing and adding shared events, go to **Ship Settings → Event Delegation** and check **Add Shared Events** for that role.
+If you'd rather your XO, OPS, or SO officer handle browsing and adding shared events, go to **Ship Settings → Command Action Delegation** and check **Add Shared Events** for that role.
 
-The same grid controls approving and deleting events. Granting shared-event access does not grant either of those.
+The same grid controls approving and deleting events. Granting shared-event access does not grant either of those. See [Delegating Command Authority](delegation.md) for the full picture, including what can be delegated for promotions and awards.
 
 ---
 
