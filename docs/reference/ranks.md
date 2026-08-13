@@ -55,7 +55,7 @@
 | O-4 | MAJ | Major |
 | O-5 | LTC | Lieutenant Colonel |
 | O-6 | COL | Colonel |
-| O-7 | DBR | Brigadier |
+| O-7 | BDR | Brigadier |
 | O-8 | BGN | Brigadier General |
 | O-9 | MGN | Major General |
 | O-10 | LGN | Lieutenant General |
