@@ -51,6 +51,17 @@ Each award shows the default SFI point value and your ship's current override. C
 
 ---
 
+## Event Point Adjustments
+
+Give your crew a starting event point balance for activity earned before your chapter joined COMPASS, or correct recording errors in bulk.
+
+Go to **Ship Settings → Event Point Adjustments**. See [Opening Event Points](event-point-adjustments.md) for the full guide.
+
+!!! note
+    Adjustments are counted inside each member's event point total, not shown separately. Entries cannot be edited or deleted — reverse one by recording the opposite amount.
+
+---
+
 ## Promotion Requirements
 
 Configure the point and time-in-grade requirements for each rank promotion.

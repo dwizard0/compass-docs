@@ -11,6 +11,7 @@ This guide covers everything a CO (or XO) needs to run their ship effectively in
 | [Managing Your Roster](roster.md) | Adding, editing, transferring crew; roster import; departments |
 | [Promotions](promotions.md) | Eligibility checking, submitting promotions, the regional approval workflow |
 | [Events](events.md) | Creating events, recording attendance, activity tracking |
+| [Opening Event Points](event-point-adjustments.md) | Giving your crew a starting point balance when joining COMPASS |
 | [Awards & Nominations](awards.md) | Nominating crew, award categories, the nomination workflow |
 | [Reports](reports.md) | Crew activity, promotion points, MSR, membership expiration, and more |
 | [Ship Settings](ship-settings.md) | Point values, promotion requirements, Discord integration |
