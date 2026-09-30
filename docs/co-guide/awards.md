@@ -42,6 +42,57 @@ Nominations move through these statuses:
 | **In Progress** | Under regional review |
 | **Approved** | Approved — permanent points awarded automatically |
 | **Rejected** | Not approved — a reason is provided |
+| **Approved – ACTION REQUIRED: Email to SFI** | Order of Merit only. Approved in COMPASS but **not yet sent to SFI** — see [Sending an Order of Merit to SFI](#sending-an-order-of-merit-to-sfi) |
+| **Submitted to SFI** | The form has been emailed; waiting on SFI's decision |
+| **Awarded by SFI** / **Rejected by SFI** | SFI's decision, recorded in COMPASS once it arrives |
+
+---
+
+## Sending an Order of Merit to SFI
+
+!!! warning "Approving an Order of Merit does not send it to SFI"
+    COMPASS prepares the paperwork, but **you** send it. Until you email the form and mark it submitted, the nomination sits with you and SFI never sees it.
+
+The moment an Order of Merit is approved, COMPASS stops you with this reminder:
+
+![Pop-up shown right after approving an Order of Merit](../img/Awards - OoM to SFI 1 (Approval popup).png)
+
+### The three steps
+
+1. **Download the OoM form.** Click **Download OOM Form (PDF)** — in the pop-up, in the reminder banner, or on the nomination page. The form comes pre-filled with the nominee, nominator, chapter, and citation.
+2. **Email it to the Merits Director** — *SFI MemServ - Merits Director* at **merit@sfi.org**, with the PDF attached. The **Open email to merit@sfi.org** button on the nomination page starts the email with the subject filled in; you still attach the PDF yourself.
+3. **Click Mark as Submitted to SFI** on the nomination. This is what tells COMPASS the job is done.
+
+The nomination page lays the same steps out at the top of the submission panel:
+
+![The three-step checklist on the nomination page](../img/Awards - OoM to SFI 2 (Checklist).png)
+
+**Mark as Submitted to SFI** is at the bottom of that panel, below the reference copy of the form data. COMPASS asks you to confirm you have emailed the form before it records the submission.
+
+![Mark as Submitted to SFI button](../img/Awards - OoM to SFI 3 (Mark submitted).png){ width="260" }
+
+### Until you do, COMPASS keeps reminding you
+
+A banner sits at the top of **every page** until each nomination is marked submitted. It can't be dismissed. Each row links to the nomination and to its form, and the banner changes colour as the nomination waits: amber at first, orange after 7 days, red after 14.
+
+![Reminder banner listing two unsent Order of Merit nominations](../img/Awards - OoM to SFI 4 (Banner).png)
+
+Your dashboard also shows a red card for them:
+
+![Dashboard card for unsent Order of Merit nominations](../img/Awards - OoM to SFI 5 (Dashboard card).png)
+
+??? note "On a phone"
+    The banner appears the same way on a phone, above the page content.
+
+    ![Reminder banner on a phone](../img/Awards - OoM to SFI 6 (Phone).png){ width="300" }
+
+### After you mark it submitted
+
+The status changes to **Submitted to SFI** and the reminders clear. When SFI replies, open the nomination and click **Awarded by SFI** or **Rejected by SFI**. Awarded puts the award on the member's record — or holds it for presentation, if the nomination was set to *Hold until presented*.
+
+### Who can send it
+
+The CO of the nominee's chapter, or the XO if you've delegated submitting to SFI (see [Delegating Command Authority](delegation.md)). The region's RC, VRC and RAO can also send it and see the same reminders. Whoever sends it should mark it submitted, so it isn't emailed twice.
 
 ---
 

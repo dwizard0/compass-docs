@@ -31,13 +31,20 @@ For Order of Merit nominations, you can add an **RC Endorsement** — a brief st
 
 ## Submitting to SFI
 
-Once reviewed and endorsed, COMPASS provides three submission options at the bottom of the review panel:
+!!! warning "Approving an Order of Merit does not send it to SFI"
+    Once an Order of Merit is approved, someone has to email the form to SFI. COMPASS does not do it. The chapter CO usually sends it; you, your VRC and your RAO can too, and you all see the same reminders until it's done.
 
-| Option | Description |
+Once approved, the nomination shows a three-step checklist:
+
+| Step | What to do |
 |---|---|
-| **Download OoM Form (PDF)** | Downloads the pre-filled SFI Order of Merit nomination form |
-| **Submit to SFI Web Form** | Opens the SFI web form pre-filled with all nomination data |
-| **Mark as Submitted to SFI** | Records that you've submitted externally (for your own tracking) |
+| **1. Download OoM Form (PDF)** | Downloads the pre-filled SFI Order of Merit nomination form |
+| **2. Email it to SFI** | Send the PDF to *SFI MemServ - Merits Director* at **merit@sfi.org**. **Open email to merit@sfi.org** starts the message with the subject filled in |
+| **3. Mark as Submitted to SFI** | Records the submission and clears the reminder banner for everyone in the region and the chapter |
+
+Until step 3 is done, the nomination appears in a reminder banner at the top of every page and as a red card on your dashboard. The CO guide walks through it with screenshots: [Sending an Order of Merit to SFI](../co-guide/awards.md#sending-an-order-of-merit-to-sfi).
+
+When SFI replies, open the nomination and record **Awarded by SFI** or **Rejected by SFI**.
 
 ### The Pre-filled Nomination Form PDF
 
@@ -68,4 +75,4 @@ This setting is per nomination — you can hold some awards and immediately noti
 - Always add an RC Endorsement for Order of Merit nominations — it strengthens the submission and signals to SFI that the nomination has regional backing
 - Use **Hold until presented** for awards you plan to announce at the Regional Summit or ship events — it makes for a better experience for the recipient
 - Encourage COs to write detailed citation narratives — vague citations slow down SFI processing and reflect poorly on the submission
-- The **Mark as Submitted to SFI** option is useful if you submitted via a method outside COMPASS (email, web form manually) — keep it checked off so your queue stays accurate
+- Click **Mark as Submitted to SFI** as soon as the form is emailed to merit@sfi.org — it clears the reminder for the CO and the rest of regional staff, and stops a second person emailing the same nomination
