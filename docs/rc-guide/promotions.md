@@ -22,7 +22,7 @@ The page is divided into three sections:
 
 | Section | Contents |
 |---|---|
-| **O-6 Pending Approval** | Captain promotions awaiting your direct approval |
+| **O6 & Below Pending Approval** | Promotions awaiting your direct approval: Captain promotions from ships, and unassigned members' own requests ([see Approving Unassigned Member Promotions](unassigned-promotions.md)) |
 | **O-7+ Pending Recommendation** | Fleet Captain and above awaiting your recommendation to SFI Fleet Command |
 | **Recently Actioned** | All promotions you've recently approved, rejected, or forwarded — with current status |
 
