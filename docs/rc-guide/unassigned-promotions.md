@@ -43,10 +43,7 @@ The member's rank updates in COMPASS straight away and they are notified.
 
 ### Rejecting
 
-Select **Reject Promotion** and enter a reason (required). The request leaves your queue.
-
-!!! warning "Tell the member yourself"
-    COMPASS does not currently notify an unassigned member when their request is rejected. Let them know your reason directly.
+Select **Reject Promotion** and enter a reason (required). The request leaves your queue, and the member is notified by email and push notification with your reason — so write it for them to read.
 
 ---
 

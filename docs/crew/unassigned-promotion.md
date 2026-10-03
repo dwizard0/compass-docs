@@ -77,7 +77,7 @@ You return to your dashboard with a confirmation message. Your request is now wa
 ## After Your RC Decides
 
 - **Approved** — your rank updates in COMPASS and you receive a notification. Your dashboard shows the new rank and your **Last Promotion**.
-- **Rejected** — the request leaves the RC's queue and you can submit a new one later. COMPASS does not currently send you a notice when a request is rejected, so if you have not heard back, ask your RC.
+- **Rejected** — you are notified with the RC's reason, and the request leaves their queue. You can submit a new request later.
 
 ![Dashboard after approval showing the new rank CRMN 3C](../img/Unassigned Promotion - 10 New Rank.png)
 
