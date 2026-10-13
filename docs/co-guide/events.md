@@ -111,9 +111,9 @@ When a chapter event — single or repeating — **moves** (date, time, or switc
 
 ## Event Types
 
-Each event type has a base point value, a uniform multiplier, and a default for whether it counts for attendance. The full list, with point values, is in [How Promotion Points Work](../reference/promotion-points.md).
+Each event type has a base point value, a uniform multiplier, and a default for whether it counts for attendance. Common types include **Meeting or Event**, **Games with Crewmates**, **Attend a convention**, **Participating in charity event**, **Participating in community service**, and **Plan or Host an event**.
 
-Your ship can adjust the values in **Ship Settings → Event Points**.
+The full list, with your ship's values, is in **Ship Settings → Event Points** — see [Ship Settings](ship-settings.md#event-points).
 
 ---
 
