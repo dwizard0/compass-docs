@@ -115,8 +115,8 @@ If approved, the member's rank updates in COMPASS immediately and they receive a
 
 ## Promotion Workflow Tips
 
-- Check the **Pending Actions** panel on your Regional Dashboard daily — it surfaces all promotions waiting for your review across all ships
-- Run **SFI Eligibility Sync** on a ship before processing a batch of their promotions to ensure OTS/OCC data is current
+- Check **Attention Required** on your [Regional Dashboard](regional-dashboard.md) daily — its **Pending Promotions** tile counts every O-6+ promotion waiting for you across all ships
+- Make sure OTS/OCC data is current before you decide. Open the member's record (Regional Dashboard → the ship's **Roster** → the member) and click **Sync SFI Data**, or ask the CO to run a full [SFI Eligibility Sync](sfi-eligibility-sync.md) for the ship
 - Download and review the Flag Promotion PDF before forwarding to Fleet — easier to catch data issues in the PDF view than in the form
 - Edit nomination narrative answers inline before approving if the CO's responses are vague — stronger narratives mean faster SFI processing
 - For O-7+ promotions, record the Fleet decision in COMPASS as soon as you hear back — it keeps your Recently Actioned table accurate and notifies the member promptly

@@ -71,7 +71,7 @@ This setting is per nomination — you can hold some awards and immediately noti
 
 ## Awards Workflow Tips
 
-- Check the **Pending Actions** panel on your Regional Dashboard daily — it surfaces all award nominations waiting for your review alongside promotions
+- Check **Attention Required** on your [Regional Dashboard](regional-dashboard.md) daily — the **Award Nominations** and **Annual Award Nominations** tiles count everything waiting for regional action, alongside pending promotions
 - Always add an RC Endorsement for Order of Merit nominations — it strengthens the submission and signals to SFI that the nomination has regional backing
 - Use **Hold until presented** for awards you plan to announce at the Regional Summit or ship events — it makes for a better experience for the recipient
 - Encourage COs to write detailed citation narratives — vague citations slow down SFI processing and reflect poorly on the submission

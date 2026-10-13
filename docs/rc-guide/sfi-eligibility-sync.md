@@ -2,7 +2,10 @@
 
 The SFI Eligibility Sync pulls current membership status, OTS/OCC completions, academy records, and SFI affiliations directly from db.sfi.org for every crew member on a ship. This keeps COMPASS promotion eligibility calculations accurate without requiring manual data entry.
 
-Go to **Command Dashboard → SFI Database Sync** for a single ship, or access it per-ship from the Regional Dashboard.
+Go to **Command Dashboard → SFI Database Sync** to sync your own ship.
+
+!!! note "Other ships in your region"
+    The Regional Dashboard doesn't link to other ships' sync pages. To sync one member on another ship, open their record (Regional Dashboard → the ship's **Roster** → the member) and click **Sync SFI Data**. A full-ship sync for another chapter is run by that ship's CO or XO.
 
 ---
 
