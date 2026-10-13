@@ -69,28 +69,11 @@ From top to bottom:
 
 ## My Record
 
-**My Record** (under Account) is your complete service record in one place.
+**My Record** (under Account) is your complete service record: ships, promotions, awards, training, events and points, with a **Service Record (PDF)** button for a printable copy that leaves out your personal contact details.
 
 ![My Record](../img/Crew Guide - My Record.png)
 
-It shows:
-
-- **Points Breakdown** — the same totals as your dashboard. If points were spent on a promotion, that is shown under Event + Academy Points.
-- **Service History** — every ship you've served on, with dates.
-- **Rank Progression** — a timeline of your promotions, oldest on the left. "Start" is the rank you held before the earliest promotion recorded in COMPASS.
-- **Academy Courses** — how many courses you've passed with Distinction, Honors and Pass.
-- **Recent Event Participation** — your last ten events, whether you were in uniform, and the points each earned. Click **View All** for the full list.
-- **Service Stats** — events attended, uniform compliance and time in service.
-- **Training Status** — OTS, OCC and SFDPP, with completion dates.
-- **Positions** and **Departments** — what you hold on your ship and in your region.
-- **Membership** — whether your SFI membership is active and when it expires.
-- **Promotion Progress** and **Events by Type**.
-
-Buttons at the top right:
-
-- **Service Record (PDF)** — downloads a printable copy of your record. It includes your promotions, service, positions, awards, training, events and permanent points. It deliberately leaves out your date of birth, address, phone number and email, so it's safe to share.
-- **Sync My SFI Data** — signs in to db.sfi.org with your SFI credentials and pulls in your membership expiration, OTS/OCC and course completions. Your SFI password is used once and never stored.
-- **Transfer History** and **Leave Ship** — see [Changing Ships](#changing-ships) below.
+See **[My Record and Your Service Record](my-record.md)** for a tour of every section, the PDF, and how to fix details that are wrong.
 
 ---
 
@@ -113,31 +96,13 @@ Not sure where the numbers come from? See [How Promotion Points Work](../referen
 
 ## Events and RSVPs
 
-Go to **Events** to see your ship's calendar. Switch between **List** and **Calendar** view at the top right.
-
-Open an event to see the details — date and time (shown in your time zone), location, and type.
-
-![Event page](../img/Crew Guide - Event.png)
-
-### RSVP
-
-Events that count for attendance have a **Will you attend this event?** section. Choose **Attending**, **Maybe** or **Not Attending**. You can change your answer until RSVP closes, 24 hours after the event starts.
+Go to **Events** to see your ship's calendar. Open an event and choose **Attending**, **Maybe** or **Not Attending** to let your command team know whether you're coming. If an event you RSVP'd to moves or is cancelled, COMPASS tells you.
 
 ![RSVP](../img/Crew Guide - RSVP.png)
 
-If you're part of a **family membership**, your family members are listed below you and you can RSVP for each of them.
+Your RSVP isn't your attendance: your command team records who attended after the event, and that's what earns points.
 
-Your RSVP tells your command team who to expect. It is **not** your attendance — attendance (and your points) is recorded by your command team after the event.
-
-If an event you RSVP'd **Attending** or **Maybe** to is moved, changes location, or is cancelled, COMPASS notifies you automatically.
-
-### Subscribe to your ship's calendar
-
-Click **Subscribe to Calendar** on the Events page to add your ship's events to Google Calendar, Apple Calendar or Outlook. The calendar includes your ship's approved events and updates itself as new ones are approved. If the window says the feed is disabled or not yet available, ask your CO or XO to turn it on.
-
-### Suggesting an event
-
-Crew members can create events too. Click **Create Event** and fill in the form — see [Events](../co-guide/events.md) for what each field means. Your event is submitted as **pending** and appears on the calendar once your command team approves it.
+See **[Events and RSVPs](events-rsvp.md)** for RSVPing for family members, change notices, adding your ship's calendar to your phone, and suggesting an event.
 
 ---
 
@@ -179,37 +144,24 @@ Go to **Profile** to manage your account.
 
 ![Profile](../img/Crew Guide - Profile.png)
 
-- **SFI Identity** — your name, SCC, username, member-since date, membership expiration and status. This is **read only**: it comes from the SFI member database. To change your name or contact details, update them on [db.sfi.org](https://db.sfi.org); they reach COMPASS the next time your command team imports the roster.
-- **Change Password** — your COMPASS password.
-- **Email Notification Preferences** — turn individual emails on or off:
-    - **Award Received**
-    - **Promotion Status**
-    - **Event Changes** — when an event you RSVP'd to is moved or cancelled
-    - **Membership Expiring**
-    - **Weekly Summary Email** — one email every Monday rolling up the past week. Nothing is sent for a quiet week.
-    - **Pending Approvals** — only shown to members with a command role
-- **Timezone** — COMPASS shows times in your ship's time zone. Pick another one here if you live somewhere else.
-- **Discord Notifications** — if your account is linked to Discord, you can also get these notices as Discord DMs.
-- **Push Notifications** — click **Enable on this Device** to get instant notifications on that phone or computer. Do this on each device you use.
-- **Install COMPASS App** — adds COMPASS to your home screen.
-- **Notification History** — every notice COMPASS has sent you. You can also reach it from the **Notifications** bell.
-- **Ship Assignment** — your current ship, with a **Leave Ship** button.
+- **SFI Identity** — your name, SCC, username and membership, read only from db.sfi.org
+- **Change Password** — your COMPASS password
+- **Email Notification Preferences** and **Timezone**
+- **Discord Notifications** and **Push Notifications**
+- **Install COMPASS App** and **Notification History**
+- **Ship Assignment** — your current ship, with a **Leave Ship** button
+
+See **[Notifications](notifications.md)** for setting up email, push and Discord notices, linking your Discord account, and using your Notification History.
 
 ---
 
 ## Changing Ships
 
-Under SFI policy you can move to another chapter at any time, for any reason. Your service history, awards, academy records, permanent points and rank all come with you.
+Under SFI policy you can move to another chapter at any time. Click **Leave Ship** (on My Record or your Profile) to transfer to another ship, become unassigned, or move to a chapter that isn't on COMPASS. Your service history, awards, academy records, points and rank all come with you.
 
-Click **Leave Ship** (on My Record or your Profile) and choose:
+Your chapter is officially set on db.sfi.org, so COMPASS shows you exactly what to change there and completes your move once it sees the change.
 
-- **Transfer to another ship** — pick another COMPASS ship from the ship browser.
-- **Become unassigned** — leave without joining another ship. You stay a STARFLEET member in your region and can join a ship later.
-- **Transfer to a chapter not on COMPASS** — optionally type the chapter's name.
-
-Your chapter is officially set on **db.sfi.org**, and COMPASS follows it. After you choose, COMPASS shows you exactly what to change there. **You stay on your current ship until db.sfi.org shows the change**, and then COMPASS moves you automatically.
-
-**Transfer History** on My Record lists every move you've made.
+See **[Joining or Changing Ships](changing-ships.md)** for the step-by-step walkthrough, including joining a ship when you don't have one.
 
 ---
 
