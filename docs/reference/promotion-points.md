@@ -216,9 +216,9 @@ O-6 and above carry no point cost — they are earned through service and approv
 | O-3 | MCPT | 150 | 6 |
 | O-4 | MAJ | 250 | 7 |
 | O-5 | LTC | 300 | 8 |
-| O-6 | COL | 0 | 12 |
-| O-7 | BDR | 0 | 18 |
-| O-8 | BGN | 0 | 21 |
+| O-6 | COL | 0 | 18 |
+| O-7 | BDR | 0 | 21 |
+| O-8 | BGN | 0 | 24 |
 | O-9 | MGN | 0 | 24 |
 | O-10 | LGN | 0 | 30 |
 | O-11 | GEN | 0 | 36 |
