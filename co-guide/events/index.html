@@ -641,6 +641,56 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#repeating-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Repeating Events
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Repeating Events">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rules-for-repeating-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rules for repeating events
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-a-repeating-event" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Editing a Repeating Event
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rsvps-and-change-notices" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RSVPs and Change Notices
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#event-types" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1402,6 +1452,56 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#repeating-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Repeating Events
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Repeating Events">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rules-for-repeating-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rules for repeating events
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#editing-a-repeating-event" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Editing a Repeating Event
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rsvps-and-change-notices" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RSVPs and Change Notices
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#event-types" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1510,45 +1610,109 @@
 <ul>
 <li><strong>Event Name</strong> — A descriptive title (e.g., "June Monthly Meeting", "Regional Summit 2026")</li>
 <li><strong>Event Type</strong> — Determines point value (see below)</li>
-<li><strong>Date</strong> — The date the event occurred</li>
-<li><strong>Attending Crew</strong> — Check each member who attended</li>
+<li><strong>Event Date</strong> — The date the event takes (or took) place</li>
 </ul>
+<p>Optional fields:</p>
+<ul>
+<li><strong>Event Time</strong> — Leave it blank for an <strong>all-day</strong> event. An all-day event shows only its date, with no time, everywhere in COMPASS and in calendar feeds. Enter a time and it is shown to each member in their own time zone.</li>
+<li><strong>End Date / End Time</strong> — For multi-day events such as conventions.</li>
+<li><strong>Location</strong> and <strong>Description</strong></li>
+<li><strong>Counts for Attendance Tracking</strong> — Pre-set from the event type. Leave it on for events where you take attendance; turn it off for things like articles or recruiting credit.</li>
+<li><strong>Event Visibility</strong></li>
+<li><strong>Charity Amount Raised</strong> — For charity events.</li>
+<li><strong>Attendance</strong> — For an event that has already happened, you can check off who attended right on the create form. You can also record it later.</li>
+</ul>
+<p>New events are created as <strong>pending</strong> and are approved by an officer who holds event-approval authority for the ship. Officers who can approve will see an <strong>Approve Event</strong> button on the event page.</p>
 <hr />
-<h2 id="event-types">Event Types<a class="headerlink" href="#event-types" title="Permanent link">&para;</a></h2>
+<h2 id="repeating-events">Repeating Events<a class="headerlink" href="#repeating-events" title="Permanent link">&para;</a></h2>
+<p>If your chapter meets on a regular schedule, create the meeting once as a <strong>repeating event</strong> instead of entering every date by hand.</p>
+<p>On the create form, use the <strong>Repeats</strong> section:</p>
 <table>
 <thead>
 <tr>
-<th>Type</th>
-<th>Examples</th>
+<th>Option</th>
+<th>What it does</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>Monthly Meeting</strong></td>
-<td>Regular ship meetings</td>
+<td><strong>Does not repeat</strong></td>
+<td>A single event (the default).</td>
 </tr>
 <tr>
-<td><strong>Ship Activity</strong></td>
-<td>Social events, watch parties, game nights, group outings</td>
+<td><strong>Daily</strong></td>
+<td>Every day.</td>
 </tr>
 <tr>
-<td><strong>Convention</strong></td>
-<td>Regional Summit, local or national cons</td>
+<td><strong>Weekly</strong></td>
+<td>Every week, on one or more days you pick under <strong>On</strong> (e.g. Tue and Thu).</td>
 </tr>
 <tr>
-<td><strong>Community Service</strong></td>
-<td>Charity work, outreach, public service activities</td>
+<td><strong>Every other week</strong></td>
+<td>Every second week, on the days you pick.</td>
 </tr>
 <tr>
-<td><strong>Training / Academy</strong></td>
-<td>Study groups, test prep sessions</td>
+<td><strong>Monthly</strong></td>
+<td>Once a month. The choices are built from the event date you entered — see below.</td>
 </tr>
 </tbody>
 </table>
-<p>Point values per event type are configured per ship in <strong>Ship Settings → Event Points</strong>. Your RC may set regional defaults that apply automatically.</p>
+<p><strong>Monthly choices.</strong> Pick an Event Date first; COMPASS then offers the patterns that fit it. For a date of Saturday, October 31, for example, you would be offered:</p>
+<ul>
+<li><strong>The 5th Saturday (only months that have one)</strong></li>
+<li><strong>The last Saturday</strong></li>
+<li><strong>The 31st</strong> — months without a 31st are skipped, not moved</li>
+<li><strong>The last day of the month</strong></li>
+</ul>
+<p>A date in the first four weeks offers "The 1st/2nd/3rd/4th <em>weekday</em>" instead. If you want "the end of the month" every month, choose <strong>The last day of the month</strong>, not the 31st.</p>
+<p><strong>Ends.</strong> Choose when the series stops:</p>
+<ul>
+<li><strong>Never</strong> — keeps going until you end it</li>
+<li><strong>On</strong> a specific date</li>
+<li><strong>After</strong> a number of occurrences (up to 500)</li>
+</ul>
+<p><strong>Preview.</strong> As you fill in the options, a <strong>Preview</strong> lists the actual dates that will be created, and lists any months that will be skipped. Check it before you submit — it is calculated by the same code that creates the events, so what you see is what you get.</p>
+<p>Click <strong>Create Repeating Event</strong> to save.</p>
+<h3 id="rules-for-repeating-events">Rules for repeating events<a class="headerlink" href="#rules-for-repeating-events" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>A repeating event must start today or later, and needs a start time.</strong> To record meetings that already happened, enter them as single events.</li>
+<li><strong>Attendance and charity amounts are not entered on the create form.</strong> Each date is its own event; record attendance on each one after it happens.</li>
+<li><strong>COMPASS creates the dates about six months ahead</strong> and tops them up automatically each night, so a "Never" series always has the next half year on the calendar.</li>
+<li><strong>Approval happens once, for the whole series.</strong> On any occurrence of a pending series, an approver will see <strong>Approve Series</strong>. Approving it approves every upcoming occurrence. Past occurrences are not changed.</li>
+</ul>
+<p>On each occurrence's page, a <strong>Repeating event</strong> banner describes the pattern (e.g. "Every week on Tuesday") and shows whether the series is pending or has ended.</p>
+<hr />
+<h2 id="editing-a-repeating-event">Editing a Repeating Event<a class="headerlink" href="#editing-a-repeating-event" title="Permanent link">&para;</a></h2>
+<p>Open the occurrence you want to change and click <strong>Edit Event</strong>. The edit page asks what the change applies to:</p>
+<ul>
+<li><strong>This event only</strong> — changes just this date. Use this to move one meeting or change its location.</li>
+<li><strong>This and following occurrences</strong> — changes this date and every one after it.</li>
+<li><strong>All future occurrences</strong> — changes every occurrence that hasn't started yet, including ones earlier than the one you opened.</li>
+</ul>
+<p>When you choose one of the series options, the <strong>Repeats</strong> section appears so you can change the pattern itself (for example, moving from Tuesdays to Thursdays, or setting an end date).</p>
+<p>Things to know:</p>
+<ul>
+<li><strong>Occurrences that have already started are never changed by a series edit.</strong> Your history stays exactly as it happened.</li>
+<li><strong>A series edit overrides one-off changes to future dates.</strong> If you moved next week's meeting by hand and then edit "all future occurrences", next week follows the new series settings.</li>
+<li>Before you save, COMPASS shows what the change will do — how many dates are affected, and whether any of them already have attendance recorded.</li>
+</ul>
+<hr />
+<h2 id="rsvps-and-change-notices">RSVPs and Change Notices<a class="headerlink" href="#rsvps-and-change-notices" title="Permanent link">&para;</a></h2>
+<p>Events that count for attendance show an <strong>RSVP</strong> section, so crew can say whether they are attending. RSVP closes 24 hours after the event starts.</p>
+<p>When a chapter event — single or repeating — <strong>moves</strong> (date, time, or switching to/from all-day), <strong>changes location</strong>, or is <strong>cancelled</strong>, every member who RSVP'd <strong>Attending</strong> or <strong>Maybe</strong> is notified automatically.</p>
+<ul>
+<li>Renaming an event or editing its description does <strong>not</strong> notify anyone.</li>
+<li>Nobody is notified about a change they made themselves, and events already past are skipped.</li>
+<li>A series edit that touches several dates a member RSVP'd to arrives as <strong>one</strong> message listing each changed date, not one message per date.</li>
+<li>Members control this in their notification preferences under <strong>Event Changes</strong>.</li>
+</ul>
+<hr />
+<h2 id="event-types">Event Types<a class="headerlink" href="#event-types" title="Permanent link">&para;</a></h2>
+<p>Each event type has a base point value, a uniform multiplier, and a default for whether it counts for attendance. The full list, with point values, is in <a href="../reference/promotion-points.md">How Promotion Points Work</a>.</p>
+<p>Your ship can adjust the values in <strong>Ship Settings → Event Points</strong>.</p>
 <hr />
 <h2 id="recording-attendance">Recording Attendance<a class="headerlink" href="#recording-attendance" title="Permanent link">&para;</a></h2>
-<p>Check each crew member who attended when creating the event. You can edit attendance after the fact by opening the event and clicking <strong>Edit Attendance</strong>.</p>
+<p>Open the event and click <strong>Record Attendance</strong> (or <strong>Edit Attendance</strong> once some has been entered). Check each crew member who attended, and mark who was in uniform.</p>
 <div class="admonition tip">
 <p class="admonition-title">Tip</p>
 <p>Enter attendance the same day or the next morning. Remembering who attended two weeks later is much harder — and missing attendance means missing points toward promotion eligibility.</p>
@@ -1569,7 +1733,8 @@
 </div>
 <hr />
 <h2 id="editing-or-deleting-an-event">Editing or Deleting an Event<a class="headerlink" href="#editing-or-deleting-an-event" title="Permanent link">&para;</a></h2>
-<p>Open the event from the Events list and click <strong>Edit</strong> to change any details or update the attendance list. Events can be deleted if entered in error, but deletion is permanent — there's no undo.</p>
+<p>Open the event from the Events list and click <strong>Edit Event</strong> to change any details. Events can be deleted if entered in error, but deletion is permanent — there's no undo.</p>
+<p><strong>Deleting a repeating event</strong> opens a window with the same choices as editing: <strong>This event only</strong>, <strong>This and following occurrences</strong>, or <strong>All future occurrences</strong>. It tells you how many dates will be removed. If any of them already have attendance recorded, you must tick a box confirming you want those records deleted too. Deleting "this event only" removes that one date for good — it will not be recreated.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>Deleting an event removes all attendance records and the associated points for all attendees. If the event was just entered with the wrong date or wrong type, edit it rather than deleting and re-entering.</p>
@@ -1579,15 +1744,21 @@
 <p>Your ship can publish an event to your region or the whole fleet so other chapters can add it to their own calendars — and you can add events other chapters have shared. See <a href="../event-sharing/">Sharing Events Between Chapters</a>.</p>
 <hr />
 <h2 id="how-events-drive-promotions">How Events Drive Promotions<a class="headerlink" href="#how-events-drive-promotions" title="Permanent link">&para;</a></h2>
-<p>Each attended event awards the attending crew member a number of activity points, based on the event type's configured point value. These points accumulate toward promotion eligibility requirements. You can see a member's point total and the events driving it on their profile under the <strong>Promotions</strong> tab.</p>
+<p>Each attended event awards the attending crew member a number of activity points, based on the event type's configured point value. These points accumulate toward promotion eligibility requirements. You can see a member's point total and the events driving it on their crew record.</p>
 <hr />
 <h2 id="common-issues">Common Issues<a class="headerlink" href="#common-issues" title="Permanent link">&para;</a></h2>
 <p><strong>I forgot to log an event from last month.</strong>
-Enter it with the correct past date — no problem. COMPASS doesn't restrict event entry by date.</p>
+Enter it as a single event with the correct past date — no problem. Only <em>repeating</em> events are limited to starting today or later.</p>
 <p><strong>A member's attendance isn't showing in their promotion record.</strong>
-Open the event and verify they're checked in the attendance list. Also check that the event type has a non-zero point value configured in Ship Settings.</p>
+Open the event and verify they're checked in the attendance list. Also check that the event is approved and that the event type has a non-zero point value in Ship Settings.</p>
 <p><strong>I entered the wrong event type and points were awarded incorrectly.</strong>
 Edit the event and change the type. Points will recalculate automatically.</p>
+<p><strong>My monthly meeting skipped a month.</strong>
+You probably picked a specific date such as <strong>The 31st</strong>, or <strong>The 5th Saturday</strong>, which some months don't have. The Preview lists skipped months. Edit <strong>All future occurrences</strong> and choose <strong>The last day of the month</strong> or a weekday pattern instead.</p>
+<p><strong>I changed one meeting, then edited the series, and my change disappeared.</strong>
+That's by design — series edits apply to every future date. Make the one-off change again with <strong>This event only</strong>.</p>
+<p><strong>An event I entered with no time used to show "12:00 AM".</strong>
+Events entered without a time are now true all-day events and show the date only.</p>
 
 
 
