@@ -96,6 +96,18 @@ Things to know:
 
 ---
 
+## Seeing Who's Coming
+
+The RSVP section on an event shows totals to everyone. To see **who** responded, click **View details** on the event (or **View Details** on the attendance page).
+
+![Event RSVPs](../img/Ship - Event RSVPs.png)
+
+The RSVP page shows counts for **Attending**, **Maybe**, **Not Attending** and **No Response** — active crew who haven't answered — then lists each person under their answer, with when they responded.
+
+Names are visible to your command team, regional officers over your chapter, and whoever created the event. Use the list to plan, and as a checklist when you record attendance afterwards. An RSVP isn't attendance: points only come from the attendance you record.
+
+---
+
 ## RSVPs and Change Notices
 
 Events that count for attendance show an **RSVP** section, so crew can say whether they are attending. RSVP closes 24 hours after the event starts.

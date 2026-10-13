@@ -54,13 +54,11 @@ If the automatic sync isn't available, use **Manual Import** to paste CSV data f
 
 ---
 
-## Transferring a Member
+## Transfers
 
-1. Open the member's profile
-2. Go to **Actions → Transfer Member**
-3. Select the destination ship and confirm
+Members change ships themselves by updating their chapter on db.sfi.org; COMPASS follows it. There is nothing for you to approve. Members heading to your ship appear under **Incoming Crew** in the left navigation.
 
-The member will show as pending on the receiving ship until that ship's CO confirms the transfer. Inter-region transfers require RC approval from both regions.
+See **[Crew Transfers](crew-transfers.md)** for what you see when crew arrive or leave, and when to ask your RC for a direct transfer.
 
 ---
 
@@ -78,11 +76,11 @@ To assign or change a position, go to **Ship Positions → Manage Positions**.
 
 ## Departments
 
-Go to **Departments** from the Command Dashboard or left navigation to manage your ship's department structure and assign crew.
+Go to **Departments** in the left navigation to organise your crew into departments, assign department heads, and run department activity reports.
 
-![Departments](../img/Departments (CO).png)
+Crew not assigned to a department appear in the **Unassigned** count on the Command Dashboard.
 
-Crew not assigned to a department appear in the **Unassigned** count on the Command Dashboard. Assigning crew to departments keeps your org chart accurate and helps with department-level reporting.
+See **[Departments](departments.md)** for the full walkthrough.
 
 ---
 
@@ -98,7 +96,7 @@ Crew not assigned to a department appear in the **Unassigned** count on the Comm
 ## Common Issues
 
 **I added a member but they can't log in.**
-They need to register at [compass.sfi.org](https://compass.sfi.org) separately. Their SCC will link their account to your ship automatically.
+New members get a **Welcome to COMPASS** email with a link to set their password. The link expires after 24 hours; after that they can use **Forgot password?** on the login page with their SFI username. See [Getting Your Account](../crew/index.md#getting-your-account).
 
 **A member appears on two ships.**
 Contact your RC to resolve. Crew can only have one active assignment at a time.

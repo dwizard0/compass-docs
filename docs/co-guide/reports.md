@@ -112,3 +112,31 @@ The bottom of the Reports page has three export buttons:
 | **Export Participation Data** | Per-member event attendance and points data |
 
 Exports are CSV format, suitable for Excel or Google Sheets.
+
+---
+
+## Exporting One Member's Activity
+
+To export a single crew member's activity for a date range — for a promotion packet, an award nomination, or a member who asks for their history:
+
+1. Open the member's crew record (click their name on the roster).
+2. Click **Export Activity** at the top right.
+
+    ![Export Activity Report](../img/Ship - Export Activity.png)
+
+3. Choose a **Start Date** and **End Date**. The window opens set to the last 30 days.
+4. Click **Export CSV**.
+
+The file starts with the member's name, SCC and the period, then one row per item with its date, type, description, details, points and uniform:
+
+- **Event** participation, with the event type and whether they wore uniform
+- **Awards** received, with their point value
+- **Promotions**, shown as negative points (the points the promotion used)
+- **Permanent points** awarded, with their category
+
+Academy courses aren't included, because COMPASS records academy totals rather than a date for each course.
+
+**Export Activity** is available to the CO, XO, OPS and SO.
+
+!!! tip "Adjusting points"
+    To give a member (or your whole roster) a starting balance of event points, or to correct a recording error, use event point adjustments. See [Opening Event Points](event-point-adjustments.md).
