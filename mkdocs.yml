@@ -44,6 +44,7 @@ nav:
     - Delegating Command Authority: co-guide/delegation.md
   - Crew Members:
     - Guide: crew/index.md
+    - How Promotion Points Work: reference/promotion-points.md
     - Requesting a Promotion (Unassigned): crew/unassigned-promotion.md
   - Regional Coordinators:
     - Overview: rc-guide/index.md
@@ -54,6 +55,7 @@ nav:
     - SFI Eligibility Sync: rc-guide/sfi-eligibility-sync.md
   - Reference:
     - Rank Chart: reference/ranks.md
+    - Promotion Point System: reference/promotion-points.md
     - Glossary: reference/glossary.md
 
 plugins:
