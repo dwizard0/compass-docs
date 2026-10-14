@@ -57,9 +57,17 @@ nav:
   - Regional Coordinators:
     - Overview: rc-guide/index.md
     - Regional Dashboard: rc-guide/regional-dashboard.md
+    - Regional Reports: rc-guide/reports.md
+    - Regional Positions: rc-guide/positions.md
     - Promotions: rc-guide/promotions.md
-    - Unassigned Member Promotions: rc-guide/unassigned-promotions.md
     - Awards: rc-guide/awards.md
+    - Creating Regional Awards: rc-guide/regional-awards.md
+    - Annual Awards: rc-guide/annual-awards.md
+    - Regional and Fleet Events: rc-guide/events.md
+    - Ship Lifecycle: rc-guide/ship-lifecycle.md
+    - Chapters-in-Training: rc-guide/chapters-in-training.md
+    - Unassigned Members: rc-guide/unassigned-members.md
+    - Unassigned Member Promotions: rc-guide/unassigned-promotions.md
     - SFI Eligibility Sync: rc-guide/sfi-eligibility-sync.md
   - Reference:
     - Rank Chart: reference/ranks.md

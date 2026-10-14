@@ -113,6 +113,59 @@ If approved, the member's rank updates in COMPASS immediately and they receive a
 
 ---
 
+## Initiating a Promotion
+
+You don't have to wait for a CO to submit. The RC, VRC and RCOS can put a member forward themselves — for example, to recognise regional service, or to start a Flag nomination.
+
+1. On the Regional Promotions page, click **+ Initiate Promotion / Flag Nomination**.
+
+    ![Regional Promotion / Flag Nomination](../img/Region - Initiate Promotion.png)
+
+2. Under **Nominee**, search for the member by name or SCC. You can choose anyone in your region, including unassigned members.
+3. Choose the **Requested Rank** and **Effective Date**, and give the **Reason for Promotion**. The reason is shown to the member's CO if the promotion goes to them.
+4. Read the routing note COMPASS shows once you've chosen a nominee and rank, and the advisory **Eligibility** check (points, time in grade, course prerequisites).
+5. Fill in what the route asks for (below), and optionally the **Nomination Form Questions**.
+6. Click **Initiate**.
+
+### How it's routed
+
+COMPASS picks the route from the requested rank and the member's situation:
+
+| Promotion | What happens |
+|---|---|
+| **O-5 and below**, chapter member | Goes to the member's **CO** to confirm the chapter requirements (points, time in grade) and approve or decline. |
+| **O-5 and below**, member is their chapter's CO | Skips the CO step — there's no one above them in the chapter — and you apply it directly. |
+| **O-5 and below**, unassigned member | You apply it directly. |
+| **O-6** (Captain/Colonel) | You apply it directly. The CO's input is optional and advisory; a CO can't veto it. |
+| **O-7 and above** | Creates a **Flag nomination packet** for Fleet/EC review. The rank doesn't change until Fleet decides. An **RC Recommendation Letter** is required. |
+
+For O-6 and Flag nominations you can tick **Chapter CO Input (Advisory)** to ask the member's CO for examples of their chapter accomplishments (Question 3 of the nomination form). It's advisory only: you can apply or submit at any time, and doing so withdraws the request.
+
+You can't initiate a promotion for yourself, or for a member outside your region.
+
+---
+
+## Entering an External Promotion
+
+Some promotion requests arrive outside COMPASS — through the SFI website, on a paper form, or from a chapter that doesn't use COMPASS. Enter them so they go through the same regional workflow and are tracked with everything else.
+
+The RC, VRC, RCOS, RCOO and RAO can enter them.
+
+1. On the Regional Promotions page, click **+ Enter External Request**.
+
+    ![Enter External Promotion Request](../img/Region - External Promotion.png)
+
+2. **Optional:** if you have a filled-in STARFLEET Flag Promotion Nomination Form PDF, choose it under **Import from Nomination Form PDF** and click **Import PDF**. COMPASS fills in the form from it and shows you everything it extracted. Check every field before going on.
+3. Under **Member Information**, choose:
+    - **COMPASS Member** — search by name or SCC; or
+    - **Non-COMPASS Member (Manual Entry)** — type their full name, SCC, email, chapter and region.
+4. Under **Promotion Details**, set the current rank (or let COMPASS detect it), the **Requested Rank**, the **Promotion Date**, and the **CO Recommendation** if there is one (**Recommends Approval** or **Not Recommended**). Add notes and any nomination-form details you have.
+5. Submit.
+
+The **Workflow Status** is set from the requested rank: O-6 and below land in your queue as **Pending RC Approval**; O-7 and above as **Pending RC Recommendation**. From there, review them like any other submission.
+
+---
+
 ## Promotion Workflow Tips
 
 - Check **Attention Required** on your [Regional Dashboard](regional-dashboard.md) daily — its **Pending Promotions** tile counts every O-6+ promotion waiting for you across all ships

@@ -8,9 +8,18 @@ As RC, you have regional-level access across all ships in your region. Your COMP
 
 | Section | What You'll Learn |
 |---|---|
-| [Regional Dashboard](regional-dashboard.md) | Monitoring region-wide ship health and pending actions |
-| [Promotions](promotions.md) | Reviewing and approving promotion submissions from all ships |
+| [Regional Dashboard](regional-dashboard.md) | Monitoring region-wide ship health and what needs your attention |
+| [Regional Reports](reports.md) | Activity, service hours, crew, promotions, expirations and birthdays, with CSV exports |
+| [Regional Positions](positions.md) | Assigning your regional staff, and the access each position grants |
+| [Promotions](promotions.md) | Reviewing submissions, initiating promotions, and entering external requests |
 | [Awards](awards.md) | Reviewing and approving award nominations from all ships |
+| [Creating Regional Awards](regional-awards.md) | Setting up your region's own awards and award groups |
+| [Annual Awards](annual-awards.md) | RAO review, choosing regional winners, and submitting to Fleet |
+| [Regional and Fleet Events](events.md) | Creating, publishing and cancelling regional events; RSVPs and analytics |
+| [Ship Lifecycle](ship-lifecycle.md) | Onboarding chapters-in-training, commissioning, and ship status |
+| [Chapters-in-Training](chapters-in-training.md) | The shakedown board and verifying monthly reports |
+| [Unassigned Members](unassigned-members.md) | Importing, editing, academy records, nominations and placement |
+| [Unassigned Member Promotions](unassigned-promotions.md) | Approving promotions for members without a ship |
 | [SFI Eligibility Sync](sfi-eligibility-sync.md) | Syncing crew eligibility data from db.sfi.org |
 
 ## Your Role in COMPASS
