@@ -52,6 +52,18 @@ If the automatic sync isn't available, use **Manual Import** to paste CSV data f
 !!! note
     Credentials entered here are used once and never stored — the same as the initial ship setup.
 
+### If your ship has been renamed
+
+If db.sfi.org now uses a different name for your ship, the roster import notices and asks before changing anything:
+
+![Has your ship been renamed?](../img/Roster import - Confirm rename.png)
+
+- It only offers a rename when **at least half your current crew** are on the roster. Otherwise it treats the file as another ship's roster and refuses it, as before.
+- You can adjust the capitalisation of the new name (db.sfi.org rosters often use capitals); otherwise it must match db.sfi.org.
+- Click **Yes, rename and continue** to rename the ship and carry on with the import. The old name stays in the ship's history. Click **No, don't rename** to stop without changing anything.
+
+Crew who told COMPASS "my ship was renamed" (see [Check Your Chapter](../crew/chapter-check.md)) are sorted out by this import.
+
 ---
 
 ## Transfers
@@ -96,7 +108,10 @@ See **[Departments](departments.md)** for the full walkthrough.
 ## Common Issues
 
 **I added a member but they can't log in.**
-New members get a **Welcome to COMPASS** email with a link to set their password. The link expires after 24 hours; after that they can use **Forgot password?** on the login page with their SFI username. See [Getting Your Account](../crew/index.md#getting-your-account).
+New members get a **Welcome to COMPASS** email with a link to set their password. The link expires after 24 hours; after that they can use **Forgot password?** on the login page with their SFI username. If email isn't working for them, they can click **Verify with your db.sfi.org account** on the login page instead. See [Setting Up or Recovering Your Account](../crew/verify-account.md).
+
+**The roster import says "Wrong ship detected!"**
+The roster's ship name doesn't match your ship, and fewer than half your crew are on it, so COMPASS thinks it's another ship's roster. Check you exported your own chapter's roster. If your ship really was renamed and the crew is mostly the same, the import offers a rename instead (see [above](#if-your-ship-has-been-renamed)).
 
 **A member appears on two ships.**
 Contact your RC to resolve. Crew can only have one active assignment at a time.

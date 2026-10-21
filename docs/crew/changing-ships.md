@@ -73,7 +73,7 @@ You stay a STARFLEET member in your region, and your Regional Coordinator looks 
 
 ## Moving to a chapter that isn't on COMPASS
 
-From **Leave Ship**, choose **Transfer to a chapter not on COMPASS** and type the chapter's name if you know it. On db.sfi.org, pick that chapter. COMPASS keeps your record in case you ever come back.
+From **Leave Ship**, choose **Transfer to a chapter not on COMPASS** and type the chapter's name if you know it. On db.sfi.org, pick that chapter. COMPASS keeps your record, and remembers which chapter you went to: if that chapter joins COMPASS later, you're connected to it automatically when its roster is imported.
 
 ---
 

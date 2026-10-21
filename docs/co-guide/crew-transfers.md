@@ -42,6 +42,8 @@ The **Incoming Crew** link only appears while someone is on their way. You (the 
 
 A member leaves from **Leave Ship** on their record or Profile, choosing another COMPASS ship, becoming unassigned, or a chapter that isn't on COMPASS. Their assignment on your ship closes once db.sfi.org shows the change. Any positions, department assignments and ship roles they held on your ship end at the same time.
 
+Both the **CO and the XO** are told about every arrival and departure. If your ship has no CO — including when the CO is the one leaving — your **Regional Coordinator** is told as well.
+
 Their history — service, awards, points, rank — goes with them.
 
 ---
@@ -63,7 +65,10 @@ If a member's move needs to happen right away, ask your Regional Coordinator.
 ## Common Questions
 
 **A new member appeared on our roster without going through Incoming Crew.**
-That's normal. Members also arrive through your roster import, which picks up anyone db.sfi.org lists on your chapter.
+That's normal. Members also arrive through your roster import, which picks up anyone db.sfi.org lists on your chapter, and when a member [sets up their account with db.sfi.org](../crew/verify-account.md) and db.sfi.org shows them on your ship. You're told either way.
+
+**I was asked to confirm whether our ship was renamed.**
+A crew member told COMPASS that db.sfi.org shows your ship under a different name. Run a roster import: if db.sfi.org has renamed the ship, the import offers to rename it in COMPASS. See [If your ship has been renamed](roster.md#if-your-ship-has-been-renamed).
 
 **Someone says they've changed their chapter but they're still on their old ship in COMPASS.**
 Ask them to open their request and click **I've changed it — check now**. If db.sfi.org shows the change, the move completes immediately. Otherwise COMPASS checks overnight.

@@ -35,6 +35,9 @@ Go to **Regional Dashboard → Regional Actions → Unassigned Members**, or cli
 
 **Management Actions** link to the full list, importing, inactive members and regional reports. **Recent Activity** shows recently added members and recent imports.
 
+!!! note "Members waiting for a ship aren't listed"
+    A member whose chapter isn't on COMPASS yet, or whose ship has withdrawn from COMPASS, is waiting for that ship rather than unassigned. They don't appear on this list or in its counts, and they're connected automatically if the ship joins.
+
 ---
 
 ## The member list

@@ -9,16 +9,17 @@ This guide is for crew members — anyone who is not the CO or XO of their ship.
 
 ## Getting Your Account
 
-You don't sign up for COMPASS yourself. When your CO adds your ship's roster to COMPASS, you get a **"Welcome to COMPASS — Your Account is Ready"** email. It lists your SCC, ship, rank and username, and has a **Set Your Password** button.
+Usually your account is created for you: when your CO adds your ship's roster to COMPASS, you get a **"Welcome to COMPASS — Your Account is Ready"** email. It lists your SCC, ship, rank and username, and has a **Set Your Password** button.
 
 - The link in that email expires after **24 hours**. If it has expired, use **Forgot password?** on the login page to get a new one.
-- If you never received a welcome email, check your spam folder, then ask your CO. Your CO can confirm you're on the roster.
+- **No welcome email, or no access to that email address?** Click **Verify with your db.sfi.org account** on the login page. You sign in once with your db.sfi.org account and set your COMPASS password — no email needed. See [Setting Up or Recovering Your Account](verify-account.md).
+- If your chapter isn't on COMPASS yet, you can still set up an account the same way; you'll be connected to your ship when it joins.
 
 ## Logging In
 
 Go to [compass.sfi.org](https://compass.sfi.org) and sign in with your **username or email** and your COMPASS password.
 
-![COMPASS login page](../img/Crew Guide - Login.png)
+![COMPASS login page](../img/Verify - 1 Login card.png)
 
 Your username is the same as on **db.sfi.org**, but your password is separate — changing one does not change the other.
 

@@ -8,6 +8,7 @@
 - [Roster Guide](co-guide/roster.md) — Add crew, manage transfers, update ranks.
 - [Promotions Guide](co-guide/promotions.md) — Submit promotions and track requirements.
 - [Events Guide](co-guide/events.md) — Log meetings and track attendance.
+- [Set Up or Recover Your Account](crew/verify-account.md) — No welcome email, or forgot your password? Use your db.sfi.org account.
 
 ## What is COMPASS?
 

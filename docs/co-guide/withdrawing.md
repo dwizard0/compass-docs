@@ -14,7 +14,7 @@ Withdrawing is about **COMPASS only**. Your chapter keeps operating in STARFLEET
 When you withdraw:
 
 - **The ship stops being tracked.** It no longer appears on the Regional Dashboard or in reports.
-- **Your crew become unassigned in COMPASS.** Each active crew member's assignment is closed, and they get an email letting them know. Their accounts stay active.
+- **Your crew become unassigned in COMPASS.** Each active crew member's assignment is closed, and they get an email letting them know. Their accounts stay active, and COMPASS remembers they're waiting for your ship, so they're reconnected if it comes back.
 - **Ship positions and roles end.** Positions such as XO, OPS and department heads are closed, along with the access that came with them.
 - **Your Regional Coordinator is notified.**
 - **Every record is kept.** Service history, awards, promotions, events and points all stay in COMPASS.
@@ -60,7 +60,7 @@ You can re-join COMPASS at any time:
 
 If your registry matches the withdrawn ship, COMPASS **reactivates** it rather than creating a new one. The ship is restored, the person re-joining becomes its CO, and all of its history — awards, promotions, events — is still there.
 
-Your crew aren't restored automatically. They come back onto the ship with your next roster import.
+Your crew aren't restored automatically. They come back onto the ship with your next roster import. Anyone who was waiting for the ship but isn't on that roster has moved on, and stops waiting for it.
 
 ---
 
