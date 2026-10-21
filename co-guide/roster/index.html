@@ -615,6 +615,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Importing Your Roster from SFI">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#if-your-ship-has-been-renamed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        If your ship has been renamed
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1093,6 +1110,62 @@
     
   
     Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crew/verify-account/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setting Up or Recovering Your Account
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../crew/chapter-check/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Check Your Chapter
   
 
     
@@ -1947,6 +2020,23 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Importing Your Roster from SFI">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#if-your-ship-has-been-renamed" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        If your ship has been renamed
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -2088,6 +2178,15 @@
 <p class="admonition-title">Note</p>
 <p>Credentials entered here are used once and never stored — the same as the initial ship setup.</p>
 </div>
+<h3 id="if-your-ship-has-been-renamed">If your ship has been renamed<a class="headerlink" href="#if-your-ship-has-been-renamed" title="Permanent link">&para;</a></h3>
+<p>If db.sfi.org now uses a different name for your ship, the roster import notices and asks before changing anything:</p>
+<p><img alt="Has your ship been renamed?" src="../../img/Roster%20import%20-%20Confirm%20rename.png" /></p>
+<ul>
+<li>It only offers a rename when <strong>at least half your current crew</strong> are on the roster. Otherwise it treats the file as another ship's roster and refuses it, as before.</li>
+<li>You can adjust the capitalisation of the new name (db.sfi.org rosters often use capitals); otherwise it must match db.sfi.org.</li>
+<li>Click <strong>Yes, rename and continue</strong> to rename the ship and carry on with the import. The old name stays in the ship's history. Click <strong>No, don't rename</strong> to stop without changing anything.</li>
+</ul>
+<p>Crew who told COMPASS "my ship was renamed" (see <a href="../../crew/chapter-check/">Check Your Chapter</a>) are sorted out by this import.</p>
 <hr />
 <h2 id="transfers">Transfers<a class="headerlink" href="#transfers" title="Permanent link">&para;</a></h2>
 <p>Members change ships themselves by updating their chapter on db.sfi.org; COMPASS follows it. There is nothing for you to approve. Members heading to your ship appear under <strong>Incoming Crew</strong> in the left navigation.</p>
@@ -2114,7 +2213,9 @@
 <hr />
 <h2 id="common-issues">Common Issues<a class="headerlink" href="#common-issues" title="Permanent link">&para;</a></h2>
 <p><strong>I added a member but they can't log in.</strong>
-New members get a <strong>Welcome to COMPASS</strong> email with a link to set their password. The link expires after 24 hours; after that they can use <strong>Forgot password?</strong> on the login page with their SFI username. See <a href="../../crew/#getting-your-account">Getting Your Account</a>.</p>
+New members get a <strong>Welcome to COMPASS</strong> email with a link to set their password. The link expires after 24 hours; after that they can use <strong>Forgot password?</strong> on the login page with their SFI username. If email isn't working for them, they can click <strong>Verify with your db.sfi.org account</strong> on the login page instead. See <a href="../../crew/verify-account/">Setting Up or Recovering Your Account</a>.</p>
+<p><strong>The roster import says "Wrong ship detected!"</strong>
+The roster's ship name doesn't match your ship, and fewer than half your crew are on it, so COMPASS thinks it's another ship's roster. Check you exported your own chapter's roster. If your ship really was renamed and the crew is mostly the same, the import offers a rename instead (see <a href="#if-your-ship-has-been-renamed">above</a>).</p>
 <p><strong>A member appears on two ships.</strong>
 Contact your RC to resolve. Crew can only have one active assignment at a time.</p>
 <p><strong>Roster import shows a member with the wrong rank.</strong>
