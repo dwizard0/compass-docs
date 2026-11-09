@@ -96,6 +96,27 @@ See **[Departments](departments.md)** for the full walkthrough.
 
 ---
 
+## What New Members Receive
+
+When a member who doesn't have a COMPASS account yet is added to your roster, COMPASS sends them a welcome email with the subject **"Welcome to COMPASS — Your Account is Ready"**. It:
+
+- lists their **SCC**, **ship**, **rank** and **username**;
+- has a **Set Your Password** button, which is how they get into COMPASS for the first time;
+- gives a short tour of what they can do in COMPASS (events and RSVPs, academy records, promotion eligibility, awards, points).
+
+Here's what it looks like (the name, SCC and ship are sample data):
+
+![The Welcome to COMPASS email a new member receives](../img/Welcome email.png)
+
+A few things to know:
+
+- **The password link expires after 24 hours.** After that, the member can use **Forgot password?** on the login page, or **Verify with your db.sfi.org account**, which needs no email at all. If the welcome email is re-sent because the first link expired, it starts with an **Updated** note and the new link lasts 48 hours.
+- **Members added by a roster import may not get it right away.** Welcome emails from imports go out in batches every few minutes, so for a large roster it can take a while for everyone's to arrive.
+- **The email goes to the address on file.** A member with no email address on file doesn't get one; point them to **Verify with your db.sfi.org account** on the login page instead.
+- Members who have connected Discord and turned on Discord notifications also get a short Discord message with the same link.
+
+---
+
 ## Roster Best Practices
 
 - Audit monthly before submitting reports
