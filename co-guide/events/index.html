@@ -697,6 +697,34 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#location-and-address" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Location and Address
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Location and Address">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#show-address-to-crew-only" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Show address to crew only
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#repeating-events" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2023,6 +2051,34 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#location-and-address" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Location and Address
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Location and Address">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#show-address-to-crew-only" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Show address to crew only
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#repeating-events" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2198,13 +2254,65 @@
 <ul>
 <li><strong>Event Time</strong> — Leave it blank for an <strong>all-day</strong> event. An all-day event shows only its date, with no time, everywhere in COMPASS and in calendar feeds. Enter a time and it is shown to each member in their own time zone.</li>
 <li><strong>End Date / End Time</strong> — For multi-day events such as conventions.</li>
-<li><strong>Location</strong> and <strong>Description</strong></li>
+<li><strong>Location</strong> — the place's name, or Discord, Online and so on.</li>
+<li><strong>Street Address</strong> — adds a Google Maps link. Tick <strong>Show address to crew only</strong> for a member's home. See <a href="#location-and-address">Location and Address</a>.</li>
+<li><strong>Description</strong></li>
 <li><strong>Counts for Attendance Tracking</strong> — Pre-set from the event type. Leave it on for events where you take attendance; turn it off for things like articles or recruiting credit.</li>
 <li><strong>Event Visibility</strong></li>
 <li><strong>Charity Amount Raised</strong> — For charity events.</li>
 <li><strong>Attendance</strong> — For an event that has already happened, you can check off who attended right on the create form. You can also record it later.</li>
 </ul>
 <p>New events are created as <strong>pending</strong> and are approved by an officer who holds event-approval authority for the ship. Officers who can approve will see an <strong>Approve Event</strong> button on the event page.</p>
+<hr />
+<h2 id="location-and-address">Location and Address<a class="headerlink" href="#location-and-address" title="Permanent link">&para;</a></h2>
+<p>An event's location has two parts:</p>
+<ul>
+<li><strong>Location</strong> — the place's name (<em>Central Texas State Veterans Cemetery</em>), or <em>Discord</em>, <em>Online</em> and so on.</li>
+<li><strong>Street Address</strong> — optional. Fill it in for an in-person event and the event gets a <strong>Google Maps</strong> link. On a phone the link opens the maps app. Leave it blank for online events.</li>
+</ul>
+<p><img alt="Location, Street Address and the crew-only checkbox on the event form" src="../../img/Events%20-%20Location%20and%20Address.png" /></p>
+<p>On the event page the address appears under the location name. Click it to open the map.</p>
+<p><img alt="An event page showing the address as a map link" src="../../img/Events%20-%20Address%20Map%20Link.png" /></p>
+<h3 id="show-address-to-crew-only">Show address to crew only<a class="headerlink" href="#show-address-to-crew-only" title="Permanent link">&para;</a></h3>
+<p>Tick <strong>Show address to crew only</strong> when the event is at a member's home, or anywhere else whose address shouldn't be public.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Normal address</th>
+<th>Crew-only address</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Event page and calendar in COMPASS</td>
+<td>✅ Shown, with map link</td>
+<td>✅ Shown, with map link and a 🔒 note</td>
+</tr>
+<tr>
+<td>Chapters you <a href="../event-sharing/">share the event with</a></td>
+<td>✅ Shown</td>
+<td>✅ Shown — they are signed-in members too</td>
+</tr>
+<tr>
+<td>Your public calendar feed (iCal) and the website events feed</td>
+<td>✅ Included</td>
+<td>❌ Location name only</td>
+</tr>
+<tr>
+<td>The Discord bot</td>
+<td>✅ Included</td>
+<td>❌ Location name only</td>
+</tr>
+<tr>
+<td>Change notices sent to members</td>
+<td>✅ Included</td>
+<td>❌ Says <em>"(address updated)"</em> instead</td>
+</tr>
+</tbody>
+</table>
+<p>The checkbox does nothing without an address.</p>
+<p>A repeating event uses the same address for every date in the series.</p>
 <hr />
 <h2 id="repeating-events">Repeating Events<a class="headerlink" href="#repeating-events" title="Permanent link">&para;</a></h2>
 <p>If your chapter meets on a regular schedule, create the meeting once as a <strong>repeating event</strong> instead of entering every date by hand.</p>
@@ -2289,7 +2397,8 @@
 <p>Events that count for attendance show an <strong>RSVP</strong> section, so crew can say whether they are attending. RSVP closes 24 hours after the event starts.</p>
 <p>When a chapter event — single or repeating — <strong>moves</strong> (date, time, or switching to/from all-day), <strong>changes location</strong>, or is <strong>cancelled</strong>, every member who RSVP'd <strong>Attending</strong> or <strong>Maybe</strong> is notified automatically.</p>
 <ul>
-<li>Renaming an event or editing its description does <strong>not</strong> notify anyone.</li>
+<li>Changing the <strong>street address</strong> counts as a location change. If the address is crew-only, the notice says <em>"(address updated)"</em> rather than including it.</li>
+<li>Renaming an event, editing its description, or ticking or unticking <strong>Show address to crew only</strong> on its own does <strong>not</strong> notify anyone.</li>
 <li>Nobody is notified about a change they made themselves, and events already past are skipped.</li>
 <li>A series edit that touches several dates a member RSVP'd to arrives as <strong>one</strong> message listing each changed date, not one message per date.</li>
 <li>Members control this in their notification preferences under <strong>Event Changes</strong>.</li>
