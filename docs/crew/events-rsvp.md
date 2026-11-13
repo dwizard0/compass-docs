@@ -15,6 +15,8 @@ Your next few events also appear under **Upcoming Events** on your [dashboard](i
 
 Open an event to see its details. Times are shown in your time zone; an all-day event shows only its date.
 
+If the event has a street address, it appears under the location. Click it to open Google Maps (on a phone, your maps app).
+
 ![An event page](../img/Crew Guide - Event.png)
 
 ---
@@ -46,7 +48,7 @@ Your RSVP tells your command team who to expect. **It doesn't earn points.** Aft
 If you RSVP'd **Attending** or **Maybe**, COMPASS tells you when the event:
 
 - **moves** — a new date or time, or switching to or from all-day
-- **changes location**
+- **changes location** or address
 - **is cancelled**
 
 Renaming an event or editing its description doesn't send a notice, and nothing is sent for events that have already happened.

@@ -80,6 +80,12 @@ From **Events**, click **Shared Regional/Fleet Events**, then choose the **Share
 
 ![Shared events list showing a chapter-hosted event](../img/Event Share - Shared List.png)
 
+When the host chapter entered a street address, it appears beside the location as a Google Maps link.
+
+![A shared event with its address shown as a map link](../img/Event Share - Shared List Address.png)
+
+A **crew-only** address is shared too, since only signed-in COMPASS members see shared events. It stays crew-only on your copy, so your public calendar feed leaves it out. See [Location and Address](events.md#location-and-address).
+
 Each listing shows the hosting chapter, the date, and how many chapters have already added it. Open one and click **Add to \[Your Ship\]**.
 
 ### What happens when you add it
@@ -105,7 +111,7 @@ Added events appear on your Events list and calendar with a marker showing where
 
 ### Staying in sync
 
-If the host chapter changes the date, location, or details, your copy updates automatically. If you'd rather freeze your copy — say your chapter is doing a variation on the host's plan — open the event and turn off **auto sync**. Your copy then stops following the host's changes.
+If the host chapter changes the date, location, address, or details, your copy updates automatically. If you'd rather freeze your copy — say your chapter is doing a variation on the host's plan — open the event and turn off **auto sync**. Your copy then stops following the host's changes.
 
 ---
 

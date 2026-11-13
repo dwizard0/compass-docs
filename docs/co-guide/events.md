@@ -24,13 +24,46 @@ Optional fields:
 
 - **Event Time** — Leave it blank for an **all-day** event. An all-day event shows only its date, with no time, everywhere in COMPASS and in calendar feeds. Enter a time and it is shown to each member in their own time zone.
 - **End Date / End Time** — For multi-day events such as conventions.
-- **Location** and **Description**
+- **Location** — the place's name, or Discord, Online and so on.
+- **Street Address** — adds a Google Maps link. Tick **Show address to crew only** for a member's home. See [Location and Address](#location-and-address).
+- **Description**
 - **Counts for Attendance Tracking** — Pre-set from the event type. Leave it on for events where you take attendance; turn it off for things like articles or recruiting credit.
 - **Event Visibility**
 - **Charity Amount Raised** — For charity events.
 - **Attendance** — For an event that has already happened, you can check off who attended right on the create form. You can also record it later.
 
 New events are created as **pending** and are approved by an officer who holds event-approval authority for the ship. Officers who can approve will see an **Approve Event** button on the event page.
+
+---
+
+## Location and Address
+
+An event's location has two parts:
+
+- **Location** — the place's name (*Central Texas State Veterans Cemetery*), or *Discord*, *Online* and so on.
+- **Street Address** — optional. Fill it in for an in-person event and the event gets a **Google Maps** link. On a phone the link opens the maps app. Leave it blank for online events.
+
+![Location, Street Address and the crew-only checkbox on the event form](../img/Events - Location and Address.png)
+
+On the event page the address appears under the location name. Click it to open the map.
+
+![An event page showing the address as a map link](../img/Events - Address Map Link.png)
+
+### Show address to crew only
+
+Tick **Show address to crew only** when the event is at a member's home, or anywhere else whose address shouldn't be public.
+
+| | Normal address | Crew-only address |
+|---|---|---|
+| Event page and calendar in COMPASS | ✅ Shown, with map link | ✅ Shown, with map link and a 🔒 note |
+| Chapters you [share the event with](event-sharing.md) | ✅ Shown | ✅ Shown — they are signed-in members too |
+| Your public calendar feed (iCal) and the website events feed | ✅ Included | ❌ Location name only |
+| The Discord bot | ✅ Included | ❌ Location name only |
+| Change notices sent to members | ✅ Included | ❌ Says *"(address updated)"* instead |
+
+The checkbox does nothing without an address.
+
+A repeating event uses the same address for every date in the series.
 
 ---
 
@@ -114,7 +147,8 @@ Events that count for attendance show an **RSVP** section, so crew can say wheth
 
 When a chapter event — single or repeating — **moves** (date, time, or switching to/from all-day), **changes location**, or is **cancelled**, every member who RSVP'd **Attending** or **Maybe** is notified automatically.
 
-- Renaming an event or editing its description does **not** notify anyone.
+- Changing the **street address** counts as a location change. If the address is crew-only, the notice says *"(address updated)"* rather than including it.
+- Renaming an event, editing its description, or ticking or unticking **Show address to crew only** on its own does **not** notify anyone.
 - Nobody is notified about a change they made themselves, and events already past are skipped.
 - A series edit that touches several dates a member RSVP'd to arrives as **one** message listing each changed date, not one message per date.
 - Members control this in their notification preferences under **Event Changes**.

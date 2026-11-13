@@ -44,6 +44,7 @@ It lists upcoming events, plus any from the last 24 hours.
     - **Event Date & Time**, and the **Event Timezone** that time is in. Each attendee sees it converted to their own time zone.
     - **End Date & Time** — optional; uses the same time zone.
     - **Location** — a place, or Discord, Online and so on.
+    - **Street Address** — optional; adds a Google Maps link to the event. Tick **Show address to crew only** if it's someone's home: the address is then left out of public calendars, the website feed and the Discord bot. See [Location and Address](../co-guide/events.md#location-and-address).
     - **Event Type** — this sets the points chapters' crew earn for attending.
     - **Region** — your region.
 3. Click **Create Event**.
